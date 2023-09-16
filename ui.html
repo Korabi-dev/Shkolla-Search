@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <label>Name:</label>
+    <input type="search" id="search1">
+    <label>Surname:</label>
+    <input type="search" id="search">
+    <br>
+    <p id="r"></p>
+    <button id="b">Email Lavdat</button>
+    <script>
+        let ld;
+        document.getElementById("search").addEventListener("change", async(event) => {
+            let f = await fetch(`http://127.0.0.1:3000/student/{"name": "${document.getElementById("search1").value}", "surname": "${event.target.value}"}`)
+            if(f.status == 500) return alert("No data found")
+            f = JSON.parse(await f.text()).res;
+            ld = f;
+            let string = `Emri: ${f.name}\nMbiemri: ${f.surname}\nGjinija: ${f.gender}\nNactionaliteti: ${f.nationality}\nNr: ${f.id_num}\nID: ${f.id_all}\nViti i regjistrimit: ${f.registered}\nDrejtimi: ${f.drejtimi}\nProfili: ${f.profile}\nKlasa: ${f.grade}\nQyteti: ${f.city}${f.email ? `\nEmail: ${f.email}` : ""}${f.numbers.length ? `\nNumrat Telefonar:\n Prindi: ${f.numbers[0]}${f.numbers.length > 1 ? `\n Nxenësi: ${f.numbers[1]}` : ""}` : ""}`
+            document.getElementById("r").innerText = string
+        })
+        document.getElementById("b").addEventListener("click", async() => {
+            if(!ld) return alert("No student")
+            fetch(`http://127.0.0.1:3000/email/${ld.email}/${ld.name} ${ld.surname}`)
+        alert("Sent")
+        })
+
+    </script>
+</body>
+</html>

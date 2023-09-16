@@ -18,8 +18,10 @@
       "044575957",
       "049352152"
     ],
+    "parent": "Burim",
     "__v": 0,
-    "subgrade": 1
+    "subclass": "1",
+    "teacher": "Arben Ramadani"
   },
   {
     "_id": "65033cf55a7ea4c6e5ecfc3a",
@@ -41,7 +43,9 @@
       "045908289"
     ],
     "__v": 0,
-    "subgrade": 1
+    "parent": "Florim",
+    "subclass": "1",
+    "teacher": "Arben Ramadani"
   },
   {
     "_id": "65033cf55a7ea4c6e5ecfc3c",
@@ -63,7 +67,9 @@
       "044358405"
     ],
     "__v": 0,
-    "subgrade": 1
+    "parent": "Nexhat",
+    "subclass": "1",
+    "teacher": "Arben Ramadani"
   },
   {
     "_id": "65033cf55a7ea4c6e5ecfc3e",
@@ -85,7 +91,9 @@
       "045506174"
     ],
     "__v": 0,
-    "subgrade": 1
+    "parent": "Blerim",
+    "subclass": "1",
+    "teacher": "Arben Ramadani"
   },
   {
     "_id": "65033cf55a7ea4c6e5ecfc40",
@@ -105,7 +113,9 @@
       "045936297"
     ],
     "__v": 0,
-    "subgrade": 1
+    "parent": "Ibrahim",
+    "subclass": "1",
+    "teacher": "Arben Ramadani"
   },
   {
     "_id": "65033cf55a7ea4c6e5ecfc42",
@@ -127,7 +137,9 @@
       "048231097"
     ],
     "__v": 0,
-    "subgrade": 1
+    "parent": "Driton",
+    "subclass": "1",
+    "teacher": "Arben Ramadani"
   },
   {
     "_id": "65033cf55a7ea4c6e5ecfc44",
@@ -147,8 +159,8 @@
     "numbers": [
       "044670072"
     ],
-    "__v": 0,
-    "subgrade": 1
+    "parent": "Fitim",
+    "__v": 0
   },
   {
     "_id": "65033cf55a7ea4c6e5ecfc46",
@@ -169,7 +181,9 @@
       "044497074"
     ],
     "__v": 0,
-    "subgrade": 1
+    "parent": "Ramadan",
+    "subclass": "1",
+    "teacher": "Arben Ramadani"
   },
   {
     "_id": "65033cf65a7ea4c6e5ecfc48",
@@ -191,7 +205,9 @@
       "045688471"
     ],
     "__v": 0,
-    "subgrade": 1
+    "parent": "Ragip",
+    "subclass": "1",
+    "teacher": "Arben Ramadani"
   },
   {
     "_id": "65033cf65a7ea4c6e5ecfc4a",
@@ -212,8 +228,10 @@
       "044711004",
       "045467718"
     ],
+    "parent": "Samet",
     "__v": 0,
-    "subgrade": 1
+    "subclass": "1",
+    "teacher": "Arben Ramadani"
   },
   {
     "_id": "65033cf65a7ea4c6e5ecfc4c",
@@ -235,7 +253,9 @@
       "045373944"
     ],
     "__v": 0,
-    "subgrade": 1
+    "parent": "Halim",
+    "subclass": "1",
+    "teacher": "Arben Ramadani"
   },
   {
     "_id": "65033cf65a7ea4c6e5ecfc4e",
@@ -257,7 +277,9 @@
       "044866156"
     ],
     "__v": 0,
-    "subgrade": 1
+    "parent": "Vaxhid",
+    "subclass": "1",
+    "teacher": "Arben Ramadani"
   },
   {
     "_id": "65033cf65a7ea4c6e5ecfc50",
@@ -278,7 +300,9 @@
       "044770932"
     ],
     "__v": 0,
-    "subgrade": 1
+    "parent": "Naser",
+    "subclass": "1",
+    "teacher": "Arben Ramadani"
   },
   {
     "_id": "65033cf65a7ea4c6e5ecfc52",
@@ -300,7 +324,9 @@
       "043981384"
     ],
     "__v": 0,
-    "subgrade": 1
+    "parent": "Musli",
+    "subclass": "1",
+    "teacher": "Arben Ramadani"
   },
   {
     "_id": "65033cf65a7ea4c6e5ecfc54",
@@ -321,7 +347,9 @@
       "044133200"
     ],
     "__v": 0,
-    "subgrade": 1
+    "parent": "Nexhmedin",
+    "subclass": "1",
+    "teacher": "Arben Ramadani"
   },
   {
     "_id": "65033cf65a7ea4c6e5ecfc56",
@@ -342,7 +370,9 @@
       "045592977"
     ],
     "__v": 0,
-    "subgrade": 1
+    "parent": "Skender",
+    "subclass": "1",
+    "teacher": "Arben Ramadani"
   },
   {
     "_id": "65033cf75a7ea4c6e5ecfc58",
@@ -364,7 +394,9 @@
       "044421606"
     ],
     "__v": 0,
-    "subgrade": 1
+    "parent": "Ridvan",
+    "subclass": "1",
+    "teacher": "Arben Ramadani"
   },
   {
     "_id": "65033cf75a7ea4c6e5ecfc5a",
@@ -386,7 +418,9 @@
       "045238276"
     ],
     "__v": 0,
-    "subgrade": 1
+    "parent": "Naim",
+    "subclass": "1",
+    "teacher": "Arben Ramadani"
   },
   {
     "_id": "65033cf75a7ea4c6e5ecfc5c",
@@ -408,12 +442,14 @@
       "045221800"
     ],
     "__v": 0,
-    "subgrade": 1
+    "parent": "Ylberi",
+    "subclass": "1",
+    "teacher": "Arben Ramadani"
   },
   {
     "_id": "65033cf75a7ea4c6e5ecfc5e",
     "name": "Nazmi",
-    "surname": "Jonuzi",
+    "surname": "Januzi",
     "id_num": "020",
     "id_all": "22010110MSH",
     "registered": "2022",
@@ -430,7 +466,9 @@
       "045918618"
     ],
     "__v": 0,
-    "subgrade": 1
+    "parent": "Fitim",
+    "subclass": "1",
+    "teacher": "Arben Ramadani"
   },
   {
     "_id": "65033cf75a7ea4c6e5ecfc60",
@@ -452,7 +490,9 @@
       "049321315"
     ],
     "__v": 0,
-    "subgrade": 1
+    "parent": "Berat",
+    "subclass": "1",
+    "teacher": "Arben Ramadani"
   },
   {
     "_id": "65033cf75a7ea4c6e5ecfc62",
@@ -474,7 +514,9 @@
       "045736726"
     ],
     "__v": 0,
-    "subgrade": 1
+    "parent": "Besnik",
+    "subclass": "1",
+    "teacher": "Arben Ramadani"
   },
   {
     "_id": "65033cf75a7ea4c6e5ecfc64",
@@ -496,7 +538,9 @@
       "044425214"
     ],
     "__v": 0,
-    "subgrade": 1
+    "parent": "Sherif",
+    "subclass": "1",
+    "teacher": "Arben Ramadani"
   },
   {
     "_id": "65033cf85a7ea4c6e5ecfc66",
@@ -518,7 +562,9 @@
       "045716572"
     ],
     "__v": 0,
-    "subgrade": 1
+    "parent": "Skender",
+    "subclass": "1",
+    "teacher": "Arben Ramadani"
   },
   {
     "_id": "65033cf85a7ea4c6e5ecfc68",
@@ -540,7 +586,9 @@
       "048282806"
     ],
     "__v": 0,
-    "subgrade": 1
+    "parent": "Faik",
+    "subclass": "1",
+    "teacher": "Arben Ramadani"
   },
   {
     "_id": "65033cf85a7ea4c6e5ecfc6a",
@@ -561,7 +609,9 @@
       "049746821"
     ],
     "__v": 0,
-    "subgrade": 1
+    "parent": "Asllan",
+    "subclass": "1",
+    "teacher": "Arben Ramadani"
   },
   {
     "_id": "65033cf85a7ea4c6e5ecfc6c",
@@ -582,7 +632,9 @@
       "045537895"
     ],
     "__v": 0,
-    "subgrade": 1
+    "parent": "Sadullah",
+    "subclass": "1",
+    "teacher": "Arben Ramadani"
   },
   {
     "_id": "65033cf85a7ea4c6e5ecfc6e",
@@ -604,7 +656,9 @@
       "045270136"
     ],
     "__v": 0,
-    "subgrade": 4
+    "parent": "Burim",
+    "subclass": "2",
+    "teacher": "Florida Dermaku"
   },
   {
     "_id": "65033cf85a7ea4c6e5ecfc70",
@@ -626,7 +680,9 @@
       "046382385"
     ],
     "__v": 0,
-    "subgrade": 4
+    "parent": "Adnan",
+    "subclass": "2",
+    "teacher": "Florida Dermaku"
   },
   {
     "_id": "65033cf85a7ea4c6e5ecfc72",
@@ -648,7 +704,9 @@
       "049959822"
     ],
     "__v": 0,
-    "subgrade": 4
+    "parent": "Mejdi",
+    "subclass": "2",
+    "teacher": "Florida Dermaku"
   },
   {
     "_id": "65033cf95a7ea4c6e5ecfc74",
@@ -670,7 +728,9 @@
       "045894385"
     ],
     "__v": 0,
-    "subgrade": 4
+    "parent": "Qerim",
+    "subclass": "2",
+    "teacher": "Florida Dermaku"
   },
   {
     "_id": "65033cf95a7ea4c6e5ecfc76",
@@ -692,7 +752,9 @@
       "045282603"
     ],
     "__v": 0,
-    "subgrade": 4
+    "parent": "Murtez",
+    "subclass": "2",
+    "teacher": "Florida Dermaku"
   },
   {
     "_id": "65033cf95a7ea4c6e5ecfc78",
@@ -712,7 +774,9 @@
       "044195686"
     ],
     "__v": 0,
-    "subgrade": 4
+    "parent": "Florim",
+    "subclass": "2",
+    "teacher": "Florida Dermaku"
   },
   {
     "_id": "65033cf95a7ea4c6e5ecfc7a",
@@ -733,8 +797,8 @@
       "044311979",
       "044419980"
     ],
-    "__v": 0,
-    "subgrade": 4
+    "parent": "Bashkim",
+    "__v": 0
   },
   {
     "_id": "65033cf95a7ea4c6e5ecfc7c",
@@ -755,7 +819,9 @@
       "044485866"
     ],
     "__v": 0,
-    "subgrade": 4
+    "parent": "Milaim",
+    "subclass": "2",
+    "teacher": "Florida Dermaku"
   },
   {
     "_id": "65033cf95a7ea4c6e5ecfc7e",
@@ -777,7 +843,9 @@
       "045276592"
     ],
     "__v": 0,
-    "subgrade": 4
+    "parent": "Bashkim",
+    "subclass": "2",
+    "teacher": "Florida Dermaku"
   },
   {
     "_id": "65033cf95a7ea4c6e5ecfc80",
@@ -798,7 +866,9 @@
       "045437917"
     ],
     "__v": 0,
-    "subgrade": 4
+    "parent": "Mehmet",
+    "subclass": "2",
+    "teacher": "Florida Dermaku"
   },
   {
     "_id": "65033cfa5a7ea4c6e5ecfc82",
@@ -820,7 +890,9 @@
       "044956107"
     ],
     "__v": 0,
-    "subgrade": 4
+    "parent": "Vllaznim",
+    "subclass": "2",
+    "teacher": "Florida Dermaku"
   },
   {
     "_id": "65033cfa5a7ea4c6e5ecfc84",
@@ -842,7 +914,9 @@
       "045517610"
     ],
     "__v": 0,
-    "subgrade": 4
+    "parent": "Bekim",
+    "subclass": "2",
+    "teacher": "Florida Dermaku"
   },
   {
     "_id": "65033cfa5a7ea4c6e5ecfc86",
@@ -864,7 +938,9 @@
       "045664961"
     ],
     "__v": 0,
-    "subgrade": 4
+    "parent": "Bejto",
+    "subclass": "2",
+    "teacher": "Florida Dermaku"
   },
   {
     "_id": "65033cfa5a7ea4c6e5ecfc88",
@@ -885,8 +961,8 @@
       "049480841",
       "048233260"
     ],
-    "__v": 0,
-    "subgrade": 4
+    "parent": "Remka",
+    "__v": 0
   },
   {
     "_id": "65033cfa5a7ea4c6e5ecfc8a",
@@ -908,7 +984,9 @@
       "045237154"
     ],
     "__v": 0,
-    "subgrade": 4
+    "parent": "Asllan",
+    "subclass": "2",
+    "teacher": "Florida Dermaku"
   },
   {
     "_id": "65033cfa5a7ea4c6e5ecfc8c",
@@ -930,7 +1008,9 @@
       "045868520"
     ],
     "__v": 0,
-    "subgrade": 4
+    "parent": "Driton",
+    "subclass": "2",
+    "teacher": "Florida Dermaku"
   },
   {
     "_id": "65033cfa5a7ea4c6e5ecfc8e",
@@ -952,7 +1032,9 @@
       "045857685"
     ],
     "__v": 0,
-    "subgrade": 4
+    "parent": "Alishukri",
+    "subclass": "2",
+    "teacher": "Florida Dermaku"
   },
   {
     "_id": "65033cfb5a7ea4c6e5ecfc90",
@@ -974,7 +1056,9 @@
       "044914661"
     ],
     "__v": 0,
-    "subgrade": 4
+    "parent": "Ridvan",
+    "subclass": "2",
+    "teacher": "Florida Dermaku"
   },
   {
     "_id": "65033cfb5a7ea4c6e5ecfc92",
@@ -996,7 +1080,9 @@
       "043842064"
     ],
     "__v": 0,
-    "subgrade": 4
+    "parent": "Muhamet",
+    "subclass": "2",
+    "teacher": "Florida Dermaku"
   },
   {
     "_id": "65033cfb5a7ea4c6e5ecfc94",
@@ -1018,7 +1104,9 @@
       "045538537"
     ],
     "__v": 0,
-    "subgrade": 4
+    "parent": "Selman",
+    "subclass": "2",
+    "teacher": "Florida Dermaku"
   },
   {
     "_id": "65033cfb5a7ea4c6e5ecfc96",
@@ -1040,7 +1128,9 @@
       "044467523"
     ],
     "__v": 0,
-    "subgrade": 4
+    "parent": "Bastri",
+    "subclass": "2",
+    "teacher": "Florida Dermaku"
   },
   {
     "_id": "65033cfb5a7ea4c6e5ecfc98",
@@ -1062,7 +1152,9 @@
       "044416663"
     ],
     "__v": 0,
-    "subgrade": 4
+    "parent": "Rexhep",
+    "subclass": "2",
+    "teacher": "Florida Dermaku"
   },
   {
     "_id": "65033cfb5a7ea4c6e5ecfc9a",
@@ -1082,8 +1174,7 @@
     "numbers": [
       "049877987"
     ],
-    "__v": 0,
-    "subgrade": 5
+    "__v": 0
   },
   {
     "_id": "65033cfb5a7ea4c6e5ecfc9c",
@@ -1103,8 +1194,8 @@
       "045724913",
       "045724916"
     ],
-    "__v": 0,
-    "subgrade": 5
+    "parent": "Valbona",
+    "__v": 0
   },
   {
     "_id": "65033cfb5a7ea4c6e5ecfc9e",
@@ -1125,7 +1216,9 @@
       "044946889"
     ],
     "__v": 0,
-    "subgrade": 5
+    "parent": "Xherlil",
+    "subclass": "3",
+    "teacher": "Gojarta Neziri"
   },
   {
     "_id": "65033cfc5a7ea4c6e5ecfca0",
@@ -1145,7 +1238,9 @@
       "048196837"
     ],
     "__v": 0,
-    "subgrade": 5
+    "parent": "Arben",
+    "subclass": "3",
+    "teacher": "Gojarta Neziri"
   },
   {
     "_id": "65033cfc5a7ea4c6e5ecfca2",
@@ -1166,7 +1261,9 @@
       "049332060"
     ],
     "__v": 0,
-    "subgrade": 5
+    "parent": "Aziz",
+    "subclass": "3",
+    "teacher": "Gojarta Neziri"
   },
   {
     "_id": "65033cfc5a7ea4c6e5ecfca4",
@@ -1188,7 +1285,9 @@
       "049516992"
     ],
     "__v": 0,
-    "subgrade": 5
+    "parent": "Murat",
+    "subclass": "3",
+    "teacher": "Gojarta Neziri"
   },
   {
     "_id": "65033cfc5a7ea4c6e5ecfca6",
@@ -1210,7 +1309,9 @@
       "045934103"
     ],
     "__v": 0,
-    "subgrade": 5
+    "parent": "Limon",
+    "subclass": "3",
+    "teacher": "Gojarta Neziri"
   },
   {
     "_id": "65033cfc5a7ea4c6e5ecfca8",
@@ -1230,7 +1331,9 @@
       "044869475"
     ],
     "__v": 0,
-    "subgrade": 5
+    "parent": "Avdyl",
+    "subclass": "3",
+    "teacher": "Gojarta Neziri"
   },
   {
     "_id": "65033cfc5a7ea4c6e5ecfcaa",
@@ -1250,8 +1353,7 @@
     "numbers": [
       "045624596"
     ],
-    "__v": 0,
-    "subgrade": 5
+    "__v": 0
   },
   {
     "_id": "65033cfc5a7ea4c6e5ecfcac",
@@ -1273,7 +1375,9 @@
       "048507772"
     ],
     "__v": 0,
-    "subgrade": 5
+    "parent": "Fidan",
+    "subclass": "3",
+    "teacher": "Gojarta Neziri"
   },
   {
     "_id": "65033cfd5a7ea4c6e5ecfcae",
@@ -1293,7 +1397,9 @@
       "044870588"
     ],
     "__v": 0,
-    "subgrade": 5
+    "parent": "Abedin",
+    "subclass": "3",
+    "teacher": "Gojarta Neziri"
   },
   {
     "_id": "65033cfd5a7ea4c6e5ecfcb0",
@@ -1314,7 +1420,9 @@
       "045574804"
     ],
     "__v": 0,
-    "subgrade": 5
+    "parent": "Perparim",
+    "subclass": "3",
+    "teacher": "Gojarta Neziri"
   },
   {
     "_id": "65033cfd5a7ea4c6e5ecfcb2",
@@ -1336,7 +1444,9 @@
       "045204230"
     ],
     "__v": 0,
-    "subgrade": 5
+    "parent": "Selajdin",
+    "subclass": "3",
+    "teacher": "Gojarta Neziri"
   },
   {
     "_id": "65033cfd5a7ea4c6e5ecfcb4",
@@ -1358,7 +1468,9 @@
       "045242859"
     ],
     "__v": 0,
-    "subgrade": 5
+    "parent": "Parim",
+    "subclass": "3",
+    "teacher": "Gojarta Neziri"
   },
   {
     "_id": "65033cfd5a7ea4c6e5ecfcb6",
@@ -1380,7 +1492,9 @@
       "045991868"
     ],
     "__v": 0,
-    "subgrade": 5
+    "parent": "Bajram",
+    "subclass": "3",
+    "teacher": "Gojarta Neziri"
   },
   {
     "_id": "65033cfd5a7ea4c6e5ecfcb8",
@@ -1401,8 +1515,7 @@
       "044418176",
       "045649581"
     ],
-    "__v": 0,
-    "subgrade": 5
+    "__v": 0
   },
   {
     "_id": "65033cfd5a7ea4c6e5ecfcba",
@@ -1423,7 +1536,9 @@
       "044342604"
     ],
     "__v": 0,
-    "subgrade": 5
+    "parent": "Zjadin",
+    "subclass": "3",
+    "teacher": "Gojarta Neziri"
   },
   {
     "_id": "65033cfe5a7ea4c6e5ecfcbc",
@@ -1445,7 +1560,9 @@
       "044579010"
     ],
     "__v": 0,
-    "subgrade": 6
+    "parent": "Adnan",
+    "subclass": "3",
+    "teacher": "Gojarta Neziri"
   },
   {
     "_id": "65033cfe5a7ea4c6e5ecfcbe",
@@ -1467,7 +1584,9 @@
       "045312935"
     ],
     "__v": 0,
-    "subgrade": 6
+    "parent": "Lirim",
+    "subclass": "3",
+    "teacher": "Gojarta Neziri"
   },
   {
     "_id": "65033cfe5a7ea4c6e5ecfcc0",
@@ -1489,7 +1608,9 @@
       "045753401"
     ],
     "__v": 0,
-    "subgrade": 7
+    "parent": "Kadri",
+    "subclass": "4",
+    "teacher": "Naser Behluli"
   },
   {
     "_id": "65033cfe5a7ea4c6e5ecfcc2",
@@ -1509,7 +1630,9 @@
       "044155189"
     ],
     "__v": 0,
-    "subgrade": 7
+    "parent": "Hysen",
+    "subclass": "4",
+    "teacher": "Naser Behluli"
   },
   {
     "_id": "65033cfe5a7ea4c6e5ecfcc4",
@@ -1529,7 +1652,9 @@
       "044357455"
     ],
     "__v": 0,
-    "subgrade": 7
+    "parent": "Ramadan",
+    "subclass": "4",
+    "teacher": "Naser Behluli"
   },
   {
     "_id": "65033cfe5a7ea4c6e5ecfcc6",
@@ -1549,8 +1674,8 @@
       "044679397",
       "045247717"
     ],
-    "__v": 0,
-    "subgrade": 7
+    "parent": "Fitim",
+    "__v": 0
   },
   {
     "_id": "65033cfe5a7ea4c6e5ecfcc8",
@@ -1572,7 +1697,9 @@
       "045256098"
     ],
     "__v": 0,
-    "subgrade": 7
+    "parent": "Bislim",
+    "subclass": "4",
+    "teacher": "Naser Behluli"
   },
   {
     "_id": "65033cff5a7ea4c6e5ecfcca",
@@ -1594,7 +1721,9 @@
       "044264120"
     ],
     "__v": 0,
-    "subgrade": 7
+    "parent": "Fadil",
+    "subclass": "4",
+    "teacher": "Naser Behluli"
   },
   {
     "_id": "65033cff5a7ea4c6e5ecfccc",
@@ -1616,7 +1745,9 @@
       "044339472"
     ],
     "__v": 0,
-    "subgrade": 7
+    "parent": "Astrit",
+    "subclass": "4",
+    "teacher": "Naser Behluli"
   },
   {
     "_id": "65033cff5a7ea4c6e5ecfcce",
@@ -1636,7 +1767,9 @@
       "044873189"
     ],
     "__v": 0,
-    "subgrade": 7
+    "parent": "Naser",
+    "subclass": "4",
+    "teacher": "Naser Behluli"
   },
   {
     "_id": "65033cff5a7ea4c6e5ecfcd0",
@@ -1656,7 +1789,9 @@
       "044403548"
     ],
     "__v": 0,
-    "subgrade": 7
+    "parent": "Skender",
+    "subclass": "4",
+    "teacher": "Naser Behluli"
   },
   {
     "_id": "65033cff5a7ea4c6e5ecfcd2",
@@ -1678,7 +1813,9 @@
       "044209843"
     ],
     "__v": 0,
-    "subgrade": 7
+    "parent": "Selman",
+    "subclass": "4",
+    "teacher": "Naser Behluli"
   },
   {
     "_id": "65033cff5a7ea4c6e5ecfcd4",
@@ -1698,7 +1835,9 @@
       "045323678"
     ],
     "__v": 0,
-    "subgrade": 7
+    "parent": "Arben",
+    "subclass": "4",
+    "teacher": "Naser Behluli"
   },
   {
     "_id": "65033cff5a7ea4c6e5ecfcd6",
@@ -1718,7 +1857,9 @@
       "044652851"
     ],
     "__v": 0,
-    "subgrade": 7
+    "parent": "Blerim",
+    "subclass": "4",
+    "teacher": "Naser Behluli"
   },
   {
     "_id": "65033d005a7ea4c6e5ecfcd8",
@@ -1738,7 +1879,9 @@
       "044876968"
     ],
     "__v": 0,
-    "subgrade": 7
+    "parent": "Rexhep",
+    "subclass": "4",
+    "teacher": "Naser Behluli"
   },
   {
     "_id": "65033d005a7ea4c6e5ecfcda",
@@ -1758,7 +1901,9 @@
       "045274536"
     ],
     "__v": 0,
-    "subgrade": 7
+    "parent": "Vegim",
+    "subclass": "4",
+    "teacher": "Naser Behluli"
   },
   {
     "_id": "65033d005a7ea4c6e5ecfcdc",
@@ -1778,7 +1923,9 @@
       "044397427"
     ],
     "__v": 0,
-    "subgrade": 8
+    "parent": "Runit",
+    "subclass": "4",
+    "teacher": "Naser Behluli"
   },
   {
     "_id": "65033d005a7ea4c6e5ecfcde",
@@ -1798,7 +1945,9 @@
       "044397436"
     ],
     "__v": 0,
-    "subgrade": 8
+    "parent": "Islam",
+    "subclass": "4",
+    "teacher": "Naser Behluli"
   },
   {
     "_id": "65033d005a7ea4c6e5ecfce0",
@@ -1820,7 +1969,9 @@
       "045475036"
     ],
     "__v": 0,
-    "subgrade": 9
+    "parent": "Pjeter",
+    "subclass": "5",
+    "teacher": "Sali Halili"
   },
   {
     "_id": "65033d005a7ea4c6e5ecfce2",
@@ -1841,7 +1992,9 @@
       "045659276"
     ],
     "__v": 0,
-    "subgrade": 9
+    "parent": "Bexhet",
+    "subclass": "5",
+    "teacher": "Sali Halili"
   },
   {
     "_id": "65033d005a7ea4c6e5ecfce4",
@@ -1861,7 +2014,9 @@
       "044322097"
     ],
     "__v": 0,
-    "subgrade": 9
+    "parent": "Shaban",
+    "subclass": "5",
+    "teacher": "Sali Halili"
   },
   {
     "_id": "65033d015a7ea4c6e5ecfce6",
@@ -1882,7 +2037,9 @@
       "044351664"
     ],
     "__v": 0,
-    "subgrade": 9
+    "parent": "Enver",
+    "subclass": "5",
+    "teacher": "Sali Halili"
   },
   {
     "_id": "65033d015a7ea4c6e5ecfce8",
@@ -1902,7 +2059,9 @@
       "045634657"
     ],
     "__v": 0,
-    "subgrade": 9
+    "parent": "Halim",
+    "subclass": "5",
+    "teacher": "Sali Halili"
   },
   {
     "_id": "65033d015a7ea4c6e5ecfcea",
@@ -1923,7 +2082,9 @@
       "049705553"
     ],
     "__v": 0,
-    "subgrade": 9
+    "parent": "Faredin",
+    "subclass": "5",
+    "teacher": "Sali Halili"
   },
   {
     "_id": "65033d015a7ea4c6e5ecfcec",
@@ -1944,7 +2105,9 @@
       "045800943"
     ],
     "__v": 0,
-    "subgrade": 9
+    "parent": "Bajram",
+    "subclass": "5",
+    "teacher": "Sali Halili"
   },
   {
     "_id": "65033d015a7ea4c6e5ecfcee",
@@ -1965,8 +2128,8 @@
       "045967366",
       "045906314"
     ],
-    "__v": 0,
-    "subgrade": 9
+    "parent": "Naser",
+    "__v": 0
   },
   {
     "_id": "65033d015a7ea4c6e5ecfcf0",
@@ -1987,7 +2150,9 @@
       "044261737"
     ],
     "__v": 0,
-    "subgrade": 9
+    "parent": "Tahit",
+    "subclass": "5",
+    "teacher": "Sali Halili"
   },
   {
     "_id": "65033d015a7ea4c6e5ecfcf2",
@@ -2005,7 +2170,9 @@
     "birthday": "26.06.2006",
     "numbers": [],
     "__v": 0,
-    "subgrade": 10
+    "parent": "Shaip",
+    "subclass": "5",
+    "teacher": "Sali Halili"
   },
   {
     "_id": "65033d015a7ea4c6e5ecfcf4",
@@ -2026,7 +2193,9 @@
       "046146003"
     ],
     "__v": 0,
-    "subgrade": 10
+    "parent": "Emin",
+    "subclass": "5",
+    "teacher": "Sali Halili"
   },
   {
     "_id": "65033d025a7ea4c6e5ecfcf6",
@@ -2044,7 +2213,9 @@
     "birthday": "25.09.2006",
     "numbers": [],
     "__v": 0,
-    "subgrade": 11
+    "parent": "Bekim",
+    "subclass": "5",
+    "teacher": "Sali Halili"
   },
   {
     "_id": "65033d025a7ea4c6e5ecfcf8",
@@ -2063,8 +2234,10 @@
     "numbers": [
       "044478583"
     ],
+    "parent": "Avni",
     "__v": 0,
-    "subgrade": 12
+    "subclass": "5",
+    "teacher": "Sali Halili"
   },
   {
     "_id": "65033d025a7ea4c6e5ecfcfa",
@@ -2083,8 +2256,8 @@
     "numbers": [
       "044843424"
     ],
-    "__v": 0,
-    "subgrade": 12
+    "parent": "Avni",
+    "__v": 0
   },
   {
     "_id": "65033d025a7ea4c6e5ecfcfc",
@@ -2104,8 +2277,8 @@
       "044643299",
       "045912527"
     ],
-    "__v": 0,
-    "subgrade": 12
+    "parent": "Halit",
+    "__v": 0
   },
   {
     "_id": "65033d025a7ea4c6e5ecfcfe",
@@ -2127,7 +2300,9 @@
       "048285548"
     ],
     "__v": 0,
-    "subgrade": 13
+    "parent": "Fatmir",
+    "subclass": "6",
+    "teacher": "Muhamed Salihu"
   },
   {
     "_id": "65033d025a7ea4c6e5ecfd00",
@@ -2147,7 +2322,9 @@
       "044674316"
     ],
     "__v": 0,
-    "subgrade": 13
+    "parent": "Rifat",
+    "subclass": "6",
+    "teacher": "Muhamed Salihu"
   },
   {
     "_id": "65033d025a7ea4c6e5ecfd02",
@@ -2169,7 +2346,9 @@
       "044980056"
     ],
     "__v": 0,
-    "subgrade": 13
+    "parent": "Bardhyl",
+    "subclass": "6",
+    "teacher": "Muhamed Salihu"
   },
   {
     "_id": "65033d035a7ea4c6e5ecfd04",
@@ -2190,8 +2369,10 @@
       "049212313",
       "048550737"
     ],
+    "parent": "Nexhat",
     "__v": 0,
-    "subgrade": 13
+    "subclass": "6",
+    "teacher": "Muhamed Salihu"
   },
   {
     "_id": "65033d035a7ea4c6e5ecfd06",
@@ -2213,7 +2394,9 @@
       "045467117"
     ],
     "__v": 0,
-    "subgrade": 13
+    "parent": "Elbasan",
+    "subclass": "6",
+    "teacher": "Muhamed Salihu"
   },
   {
     "_id": "65033d035a7ea4c6e5ecfd08",
@@ -2234,7 +2417,9 @@
       "044603184"
     ],
     "__v": 0,
-    "subgrade": 13
+    "parent": "Selim",
+    "subclass": "6",
+    "teacher": "Muhamed Salihu"
   },
   {
     "_id": "65033d035a7ea4c6e5ecfd0a",
@@ -2256,7 +2441,9 @@
       "045282638"
     ],
     "__v": 0,
-    "subgrade": 13
+    "parent": "Fitim",
+    "subclass": "6",
+    "teacher": "Muhamed Salihu"
   },
   {
     "_id": "65033d035a7ea4c6e5ecfd0c",
@@ -2278,7 +2465,9 @@
       "045803290"
     ],
     "__v": 0,
-    "subgrade": 13
+    "parent": "Avni",
+    "subclass": "6",
+    "teacher": "Muhamed Salihu"
   },
   {
     "_id": "65033d035a7ea4c6e5ecfd0e",
@@ -2300,7 +2489,9 @@
       "045415959"
     ],
     "__v": 0,
-    "subgrade": 13
+    "parent": "Betim",
+    "subclass": "6",
+    "teacher": "Muhamed Salihu"
   },
   {
     "_id": "65033d035a7ea4c6e5ecfd10",
@@ -2322,7 +2513,9 @@
       "044615457"
     ],
     "__v": 0,
-    "subgrade": 13
+    "parent": "Blerim",
+    "subclass": "6",
+    "teacher": "Muhamed Salihu"
   },
   {
     "_id": "65033d045a7ea4c6e5ecfd12",
@@ -2344,7 +2537,9 @@
       "045467911"
     ],
     "__v": 0,
-    "subgrade": 13
+    "parent": "Fadil",
+    "subclass": "6",
+    "teacher": "Muhamed Salihu"
   },
   {
     "_id": "65033d045a7ea4c6e5ecfd14",
@@ -2364,7 +2559,9 @@
       "045677477"
     ],
     "__v": 0,
-    "subgrade": 13
+    "parent": "Agim",
+    "subclass": "6",
+    "teacher": "Muhamed Salihu"
   },
   {
     "_id": "65033d045a7ea4c6e5ecfd16",
@@ -2386,7 +2583,9 @@
       "046185020"
     ],
     "__v": 0,
-    "subgrade": 13
+    "parent": "Florim",
+    "subclass": "6",
+    "teacher": "Muhamed Salihu"
   },
   {
     "_id": "65033d045a7ea4c6e5ecfd18",
@@ -2408,7 +2607,9 @@
       "049473207"
     ],
     "__v": 0,
-    "subgrade": 13
+    "parent": "Ilir",
+    "subclass": "6",
+    "teacher": "Muhamed Salihu"
   },
   {
     "_id": "65033d045a7ea4c6e5ecfd1a",
@@ -2430,7 +2631,9 @@
       "045818177"
     ],
     "__v": 0,
-    "subgrade": 13
+    "parent": "Besim",
+    "subclass": "6",
+    "teacher": "Muhamed Salihu"
   },
   {
     "_id": "65033d045a7ea4c6e5ecfd1c",
@@ -2452,7 +2655,9 @@
       "048655058"
     ],
     "__v": 0,
-    "subgrade": 13
+    "parent": "Fatmir",
+    "subclass": "6",
+    "teacher": "Muhamed Salihu"
   },
   {
     "_id": "65033d045a7ea4c6e5ecfd1e",
@@ -2473,8 +2678,10 @@
       "044361817",
       "045846646"
     ],
+    "parent": "Kudret",
     "__v": 0,
-    "subgrade": 13
+    "subclass": "6",
+    "teacher": "Muhamed Salihu"
   },
   {
     "_id": "65033d055a7ea4c6e5ecfd20",
@@ -2495,7 +2702,7 @@
       "044357501"
     ],
     "__v": 0,
-    "subgrade": 14
+    "parent": " Mejdi"
   },
   {
     "_id": "65033d055a7ea4c6e5ecfd22",
@@ -2515,7 +2722,9 @@
       "044342685"
     ],
     "__v": 0,
-    "subgrade": 14
+    "parent": "Tefik",
+    "subclass": "7",
+    "teacher": "Mexhid Cani"
   },
   {
     "_id": "65033d055a7ea4c6e5ecfd24",
@@ -2535,7 +2744,7 @@
       "044628896"
     ],
     "__v": 0,
-    "subgrade": 14
+    "parent": " Azem"
   },
   {
     "_id": "65033d055a7ea4c6e5ecfd26",
@@ -2556,7 +2765,7 @@
       "048313212"
     ],
     "__v": 0,
-    "subgrade": 14
+    "parent": "Sefer "
   },
   {
     "_id": "65033d055a7ea4c6e5ecfd28",
@@ -2578,7 +2787,9 @@
       "048485645"
     ],
     "__v": 0,
-    "subgrade": 14
+    "parent": "Ali",
+    "subclass": "7",
+    "teacher": "Mexhid Cani"
   },
   {
     "_id": "65033d055a7ea4c6e5ecfd2a",
@@ -2599,7 +2810,9 @@
       "045282771"
     ],
     "__v": 0,
-    "subgrade": 14
+    "parent": "Feriz",
+    "subclass": "7",
+    "teacher": "Mexhid Cani"
   },
   {
     "_id": "65033d055a7ea4c6e5ecfd2c",
@@ -2619,7 +2832,9 @@
       "044396814"
     ],
     "__v": 0,
-    "subgrade": 14
+    "parent": "Rexhep",
+    "subclass": "7",
+    "teacher": "Mexhid Cani"
   },
   {
     "_id": "65033d055a7ea4c6e5ecfd2e",
@@ -2640,7 +2855,7 @@
       "045551396"
     ],
     "__v": 0,
-    "subgrade": 14
+    "parent": "Rmadan "
   },
   {
     "_id": "65033d065a7ea4c6e5ecfd30",
@@ -2662,7 +2877,7 @@
       "044837244"
     ],
     "__v": 0,
-    "subgrade": 15
+    "parent": " Lumni"
   },
   {
     "_id": "65033d065a7ea4c6e5ecfd32",
@@ -2684,7 +2899,7 @@
       "043820179"
     ],
     "__v": 0,
-    "subgrade": 15
+    "parent": " Selver"
   },
   {
     "_id": "65033d065a7ea4c6e5ecfd34",
@@ -2705,7 +2920,7 @@
       "045736446"
     ],
     "__v": 0,
-    "subgrade": 15
+    "parent": "Fatmir  "
   },
   {
     "_id": "65033d065a7ea4c6e5ecfd36",
@@ -2726,7 +2941,9 @@
       "044873212"
     ],
     "__v": 0,
-    "subgrade": 16
+    "parent": "Abedin",
+    "subclass": "8",
+    "teacher": "Fazli Sermaxhaj"
   },
   {
     "_id": "65033d065a7ea4c6e5ecfd38",
@@ -2747,7 +2964,7 @@
       "044280314"
     ],
     "__v": 0,
-    "subgrade": 16
+    "parent": " Besnik"
   },
   {
     "_id": "65033d065a7ea4c6e5ecfd3a",
@@ -2768,7 +2985,9 @@
       "044212182"
     ],
     "__v": 0,
-    "subgrade": 16
+    "parent": "Sahit",
+    "subclass": "8",
+    "teacher": "Fazli Sermaxhaj"
   },
   {
     "_id": "65033d065a7ea4c6e5ecfd3c",
@@ -2789,8 +3008,10 @@
       "045432596",
       "045755631"
     ],
+    "parent": "Feriz",
     "__v": 0,
-    "subgrade": 16
+    "subclass": "8",
+    "teacher": "Fazli Sermaxhaj"
   },
   {
     "_id": "65033d075a7ea4c6e5ecfd3e",
@@ -2811,7 +3032,9 @@
       "045736160"
     ],
     "__v": 0,
-    "subgrade": 16
+    "parent": "Luan",
+    "subclass": "8",
+    "teacher": "Fazli Sermaxhaj"
   },
   {
     "_id": "65033d075a7ea4c6e5ecfd40",
@@ -2831,7 +3054,9 @@
       "044693179"
     ],
     "__v": 0,
-    "subgrade": 16
+    "parent": "Rrustem",
+    "subclass": "8",
+    "teacher": "Fazli Sermaxhaj"
   },
   {
     "_id": "65033d075a7ea4c6e5ecfd42",
@@ -2851,8 +3076,10 @@
     "numbers": [
       "044320934"
     ],
+    "parent": "Xhavit",
     "__v": 0,
-    "subgrade": 16
+    "subclass": "8",
+    "teacher": "Fazli Sermaxhaj"
   },
   {
     "_id": "65033d075a7ea4c6e5ecfd44",
@@ -2874,7 +3101,7 @@
       "044950696"
     ],
     "__v": 0,
-    "subgrade": 16
+    "parent": " Mejdi"
   },
   {
     "_id": "65033d075a7ea4c6e5ecfd46",
@@ -2895,8 +3122,8 @@
       "044759832",
       "045602607"
     ],
-    "__v": 0,
-    "subgrade": 16
+    "parent": "Driton",
+    "__v": 0
   },
   {
     "_id": "65033d075a7ea4c6e5ecfd48",
@@ -2918,7 +3145,9 @@
       "049460779"
     ],
     "__v": 0,
-    "subgrade": 16
+    "parent": "Ruzhdi",
+    "subclass": "8",
+    "teacher": "Fazli Sermaxhaj"
   },
   {
     "_id": "65033d075a7ea4c6e5ecfd4a",
@@ -2939,8 +3168,8 @@
       "044137373",
       "048572826"
     ],
-    "__v": 0,
-    "subgrade": 16
+    "parent": "Hajrush",
+    "__v": 0
   },
   {
     "_id": "65033d085a7ea4c6e5ecfd4c",
@@ -2960,7 +3189,9 @@
       "044771014"
     ],
     "__v": 0,
-    "subgrade": 17
+    "parent": "Kadri",
+    "subclass": "4",
+    "teacher": "Naser Behluli"
   },
   {
     "_id": "65033d085a7ea4c6e5ecfd4e",
@@ -2981,7 +3212,9 @@
       "049926831"
     ],
     "__v": 0,
-    "subgrade": 17
+    "parent": "Agim",
+    "subclass": "9",
+    "teacher": "Agim Tahiri"
   },
   {
     "_id": "65033d085a7ea4c6e5ecfd50",
@@ -3002,7 +3235,9 @@
       "044851551"
     ],
     "__v": 0,
-    "subgrade": 17
+    "parent": "Agim",
+    "subclass": "9",
+    "teacher": "Agim Tahiri"
   },
   {
     "_id": "65033d085a7ea4c6e5ecfd52",
@@ -3023,7 +3258,9 @@
       "045595808"
     ],
     "__v": 0,
-    "subgrade": 17
+    "parent": "Skender",
+    "subclass": "9",
+    "teacher": "Agim Tahiri"
   },
   {
     "_id": "65033d085a7ea4c6e5ecfd54",
@@ -3044,7 +3281,9 @@
       "044923680"
     ],
     "__v": 0,
-    "subgrade": 17
+    "parent": "Besnik",
+    "subclass": "9",
+    "teacher": "Agim Tahiri"
   },
   {
     "_id": "65033d085a7ea4c6e5ecfd56",
@@ -3065,7 +3304,9 @@
       "049818250"
     ],
     "__v": 0,
-    "subgrade": 17
+    "parent": "Ruzhdi",
+    "subclass": "9",
+    "teacher": "Agim Tahiri"
   },
   {
     "_id": "65033d085a7ea4c6e5ecfd58",
@@ -3086,7 +3327,9 @@
       "045389872"
     ],
     "__v": 0,
-    "subgrade": 17
+    "parent": "Afrim",
+    "subclass": "9",
+    "teacher": "Agim Tahiri"
   },
   {
     "_id": "65033d095a7ea4c6e5ecfd5a",
@@ -3107,7 +3350,9 @@
       "045250685"
     ],
     "__v": 0,
-    "subgrade": 17
+    "parent": "Bashkim",
+    "subclass": "9",
+    "teacher": "Agim Tahiri"
   },
   {
     "_id": "65033d095a7ea4c6e5ecfd5c",
@@ -3128,7 +3373,9 @@
       "045687716"
     ],
     "__v": 0,
-    "subgrade": 17
+    "parent": "Ahmet",
+    "subclass": "9",
+    "teacher": "Agim Tahiri"
   },
   {
     "_id": "65033d095a7ea4c6e5ecfd5e",
@@ -3148,8 +3395,7 @@
     "numbers": [
       "044357532"
     ],
-    "__v": 0,
-    "subgrade": 18
+    "__v": 0
   },
   {
     "_id": "65033d095a7ea4c6e5ecfd60",
@@ -3170,7 +3416,9 @@
       "044283786"
     ],
     "__v": 0,
-    "subgrade": 19
+    "parent": "Nazim",
+    "subclass": "9",
+    "teacher": "Agim Tahiri"
   },
   {
     "_id": "65033d095a7ea4c6e5ecfd62",
@@ -3191,7 +3439,9 @@
       "044369185"
     ],
     "__v": 0,
-    "subgrade": 20
+    "parent": "Islam",
+    "subclass": "10",
+    "teacher": "Mehmet Rapuca"
   },
   {
     "_id": "65033d095a7ea4c6e5ecfd64",
@@ -3212,7 +3462,9 @@
       "044114829"
     ],
     "__v": 0,
-    "subgrade": 20
+    "parent": "Fehmi",
+    "subclass": "10",
+    "teacher": "Mehmet Rapuca"
   },
   {
     "_id": "65033d095a7ea4c6e5ecfd66",
@@ -3233,7 +3485,9 @@
       "045464127"
     ],
     "__v": 0,
-    "subgrade": 20
+    "parent": "Elsadat",
+    "subclass": "10",
+    "teacher": "Mehmet Rapuca"
   },
   {
     "_id": "65033d095a7ea4c6e5ecfd68",
@@ -3254,7 +3508,9 @@
       "045557994"
     ],
     "__v": 0,
-    "subgrade": 20
+    "parent": "Fatmir",
+    "subclass": "10",
+    "teacher": "Mehmet Rapuca"
   },
   {
     "_id": "65033d0a5a7ea4c6e5ecfd6a",
@@ -3273,7 +3529,9 @@
     "birthday": "02.09.2007",
     "numbers": [],
     "__v": 0,
-    "subgrade": 20
+    "parent": "Isuf",
+    "subclass": "10",
+    "teacher": "Mehmet Rapuca"
   },
   {
     "_id": "65033d0a5a7ea4c6e5ecfd6c",
@@ -3294,8 +3552,8 @@
       "044828247",
       "044950573"
     ],
-    "__v": 0,
-    "subgrade": 20
+    "parent": "Xhemail",
+    "__v": 0
   },
   {
     "_id": "65033d0a5a7ea4c6e5ecfd6e",
@@ -3316,7 +3574,9 @@
       "045351957"
     ],
     "__v": 0,
-    "subgrade": 20
+    "parent": "Besim",
+    "subclass": "10",
+    "teacher": "Mehmet Rapuca"
   },
   {
     "_id": "65033d0a5a7ea4c6e5ecfd70",
@@ -3337,7 +3597,9 @@
       "044782046"
     ],
     "__v": 0,
-    "subgrade": 20
+    "parent": "Zihadin",
+    "subclass": "10",
+    "teacher": "Mehmet Rapuca"
   },
   {
     "_id": "65033d0a5a7ea4c6e5ecfd72",
@@ -3358,7 +3620,9 @@
       "044767567"
     ],
     "__v": 0,
-    "subgrade": 20
+    "parent": "Islam",
+    "subclass": "10",
+    "teacher": "Mehmet Rapuca"
   },
   {
     "_id": "65033d0a5a7ea4c6e5ecfd74",
@@ -3379,7 +3643,9 @@
       "045904683"
     ],
     "__v": 0,
-    "subgrade": 2
+    "parent": "Musli",
+    "subclass": "1",
+    "teacher": "Florim Bajrami"
   },
   {
     "_id": "65033d0a5a7ea4c6e5ecfd76",
@@ -3400,7 +3666,9 @@
       "046188181"
     ],
     "__v": 0,
-    "subgrade": 2
+    "parent": "Sejdi",
+    "subclass": "1",
+    "teacher": "Florim Bajrami"
   },
   {
     "_id": "65033d0b5a7ea4c6e5ecfd78",
@@ -3421,7 +3689,9 @@
       "049164809"
     ],
     "__v": 0,
-    "subgrade": 2
+    "parent": "Ganimete",
+    "subclass": "1",
+    "teacher": "Florim Bajrami"
   },
   {
     "_id": "65033d0b5a7ea4c6e5ecfd7a",
@@ -3442,7 +3712,9 @@
       "049163919"
     ],
     "__v": 0,
-    "subgrade": 2
+    "parent": "Skender",
+    "subclass": "1",
+    "teacher": "Florim Bajrami"
   },
   {
     "_id": "65033d0b5a7ea4c6e5ecfd7c",
@@ -3463,7 +3735,9 @@
       "046353500"
     ],
     "__v": 0,
-    "subgrade": 2
+    "parent": "Arianit",
+    "subclass": "1",
+    "teacher": "Florim Bajrami"
   },
   {
     "_id": "65033d0b5a7ea4c6e5ecfd7e",
@@ -3484,7 +3758,9 @@
       "044396706"
     ],
     "__v": 0,
-    "subgrade": 2
+    "parent": "Isa",
+    "subclass": "1",
+    "teacher": "Florim Bajrami"
   },
   {
     "_id": "65033d0b5a7ea4c6e5ecfd80",
@@ -3505,7 +3781,9 @@
       "049250279"
     ],
     "__v": 0,
-    "subgrade": 2
+    "parent": "Burim",
+    "subclass": "1",
+    "teacher": "Florim Bajrami"
   },
   {
     "_id": "65033d0b5a7ea4c6e5ecfd82",
@@ -3526,7 +3804,9 @@
       "045206432"
     ],
     "__v": 0,
-    "subgrade": 2
+    "parent": "Refik",
+    "subclass": "1",
+    "teacher": "Florim Bajrami"
   },
   {
     "_id": "65033d0b5a7ea4c6e5ecfd84",
@@ -3546,8 +3826,8 @@
     "numbers": [
       "045437680"
     ],
-    "__v": 0,
-    "subgrade": 2
+    "parent": "Sabri",
+    "__v": 0
   },
   {
     "_id": "65033d0c5a7ea4c6e5ecfd86",
@@ -3568,7 +3848,9 @@
       "046179061"
     ],
     "__v": 0,
-    "subgrade": 2
+    "parent": "Nexhat",
+    "subclass": "1",
+    "teacher": "Florim Bajrami"
   },
   {
     "_id": "65033d0c5a7ea4c6e5ecfd88",
@@ -3588,8 +3870,8 @@
     "numbers": [
       "045602694"
     ],
-    "__v": 0,
-    "subgrade": 2
+    "parent": "Elmaz",
+    "__v": 0
   },
   {
     "_id": "65033d0c5a7ea4c6e5ecfd8a",
@@ -3610,7 +3892,9 @@
       "045461021"
     ],
     "__v": 0,
-    "subgrade": 2
+    "parent": "Fatlum",
+    "subclass": "1",
+    "teacher": "Florim Bajrami"
   },
   {
     "_id": "65033d0c5a7ea4c6e5ecfd8c",
@@ -3631,7 +3915,9 @@
       "045266589"
     ],
     "__v": 0,
-    "subgrade": 2
+    "parent": "Bujar",
+    "subclass": "1",
+    "teacher": "Florim Bajrami"
   },
   {
     "_id": "65033d0c5a7ea4c6e5ecfd8e",
@@ -3652,7 +3938,9 @@
       "045474680"
     ],
     "__v": 0,
-    "subgrade": 2
+    "parent": "Shpend",
+    "subclass": "1",
+    "teacher": "Florim Bajrami"
   },
   {
     "_id": "65033d0c5a7ea4c6e5ecfd90",
@@ -3673,7 +3961,9 @@
       "045979130"
     ],
     "__v": 0,
-    "subgrade": 2
+    "parent": "Avni",
+    "subclass": "1",
+    "teacher": "Florim Bajrami"
   },
   {
     "_id": "65033d0c5a7ea4c6e5ecfd92",
@@ -3694,7 +3984,9 @@
       "044376954"
     ],
     "__v": 0,
-    "subgrade": 2
+    "parent": "Nagip",
+    "subclass": "1",
+    "teacher": "Florim Bajrami"
   },
   {
     "_id": "65033d0d5a7ea4c6e5ecfd94",
@@ -3714,7 +4006,9 @@
       "044844197"
     ],
     "__v": 0,
-    "subgrade": 3
+    "parent": "Selami",
+    "subclass": "1",
+    "teacher": "Florim Bajrami"
   },
   {
     "_id": "65033d0d5a7ea4c6e5ecfd96",
@@ -3734,7 +4028,9 @@
       "044575933"
     ],
     "__v": 0,
-    "subgrade": 3
+    "parent": "Agim",
+    "subclass": "1",
+    "teacher": "Florim Bajrami"
   },
   {
     "_id": "65033d0d5a7ea4c6e5ecfd98",
@@ -3754,7 +4050,9 @@
       "045879232"
     ],
     "__v": 0,
-    "subgrade": 4
+    "parent": "Muhamet",
+    "subclass": "2",
+    "teacher": "Shqipe Aliu"
   },
   {
     "_id": "65033d0d5a7ea4c6e5ecfd9a",
@@ -3775,7 +4073,9 @@
       "045750762"
     ],
     "__v": 0,
-    "subgrade": 4
+    "parent": "Ilmi",
+    "subclass": "2",
+    "teacher": "Shqipe Aliu"
   },
   {
     "_id": "65033d0d5a7ea4c6e5ecfd9c",
@@ -3797,7 +4097,9 @@
       "044486783"
     ],
     "__v": 0,
-    "subgrade": 4
+    "parent": "Arben",
+    "subclass": "2",
+    "teacher": "Shqipe Aliu"
   },
   {
     "_id": "65033d0d5a7ea4c6e5ecfd9e",
@@ -3819,7 +4121,9 @@
       "048930420"
     ],
     "__v": 0,
-    "subgrade": 4
+    "parent": "Bekim",
+    "subclass": "2",
+    "teacher": "Shqipe Aliu"
   },
   {
     "_id": "65033d0d5a7ea4c6e5ecfda0",
@@ -3840,7 +4144,9 @@
       "048132157"
     ],
     "__v": 0,
-    "subgrade": 4
+    "parent": "Agmir",
+    "subclass": "2",
+    "teacher": "Shqipe Aliu"
   },
   {
     "_id": "65033d0d5a7ea4c6e5ecfda2",
@@ -3862,7 +4168,9 @@
       "045803876"
     ],
     "__v": 0,
-    "subgrade": 4
+    "parent": "Lulzim",
+    "subclass": "2",
+    "teacher": "Shqipe Aliu"
   },
   {
     "_id": "65033d0e5a7ea4c6e5ecfda4",
@@ -3883,7 +4191,9 @@
       "044319985"
     ],
     "__v": 0,
-    "subgrade": 4
+    "parent": "Fatmir",
+    "subclass": "2",
+    "teacher": "Shqipe Aliu"
   },
   {
     "_id": "65033d0e5a7ea4c6e5ecfda6",
@@ -3905,7 +4215,9 @@
       "048179998"
     ],
     "__v": 0,
-    "subgrade": 4
+    "parent": "Gjem",
+    "subclass": "2",
+    "teacher": "Shqipe Aliu"
   },
   {
     "_id": "65033d0e5a7ea4c6e5ecfda8",
@@ -3926,7 +4238,9 @@
       "048165511"
     ],
     "__v": 0,
-    "subgrade": 4
+    "parent": "Bujar",
+    "subclass": "2",
+    "teacher": "Shqipe Aliu"
   },
   {
     "_id": "65033d0e5a7ea4c6e5ecfdaa",
@@ -3947,7 +4261,9 @@
       "045455495"
     ],
     "__v": 0,
-    "subgrade": 4
+    "parent": "Afrim",
+    "subclass": "2",
+    "teacher": "Shqipe Aliu"
   },
   {
     "_id": "65033d0e5a7ea4c6e5ecfdac",
@@ -3968,11 +4284,13 @@
       "044273853"
     ],
     "__v": 0,
-    "subgrade": 4
+    "parent": "Bekim",
+    "subclass": "2",
+    "teacher": "Shqipe Aliu"
   },
   {
     "_id": "65033d0e5a7ea4c6e5ecfdae",
-    "name": "Ylll",
+    "name": "Yll",
     "surname": "Rexhepi",
     "id_num": "188",
     "id_all": "21010511MSH",
@@ -3988,8 +4306,10 @@
     "numbers": [
       "044761522"
     ],
+    "parent": "Bujar",
     "__v": 0,
-    "subgrade": 4
+    "subclass": "2",
+    "teacher": "Shqipe Aliu"
   },
   {
     "_id": "65033d0e5a7ea4c6e5ecfdb0",
@@ -4010,7 +4330,9 @@
       "044168672"
     ],
     "__v": 0,
-    "subgrade": 4
+    "parent": "Ismajl",
+    "subclass": "2",
+    "teacher": "Shqipe Aliu"
   },
   {
     "_id": "65033d0f5a7ea4c6e5ecfdb2",
@@ -4031,7 +4353,9 @@
       "044406956"
     ],
     "__v": 0,
-    "subgrade": 5
+    "parent": "Zejnullah",
+    "subclass": "3",
+    "teacher": "Lulzim Bajrami"
   },
   {
     "_id": "65033d0f5a7ea4c6e5ecfdb4",
@@ -4052,7 +4376,9 @@
       "049711885"
     ],
     "__v": 0,
-    "subgrade": 5
+    "parent": "Behlul",
+    "subclass": "3",
+    "teacher": "Lulzim Bajrami"
   },
   {
     "_id": "65033d0f5a7ea4c6e5ecfdb6",
@@ -4073,7 +4399,9 @@
       "049329066"
     ],
     "__v": 0,
-    "subgrade": 5
+    "parent": "Ferat",
+    "subclass": "3",
+    "teacher": "Lulzim Bajrami"
   },
   {
     "_id": "65033d0f5a7ea4c6e5ecfdb8",
@@ -4094,7 +4422,9 @@
       "044289021"
     ],
     "__v": 0,
-    "subgrade": 5
+    "parent": "Ymret",
+    "subclass": "3",
+    "teacher": "Lulzim Bajrami"
   },
   {
     "_id": "65033d0f5a7ea4c6e5ecfdba",
@@ -4115,7 +4445,9 @@
       "044470731"
     ],
     "__v": 0,
-    "subgrade": 5
+    "parent": "Qahil",
+    "subclass": "3",
+    "teacher": "Lulzim Bajrami"
   },
   {
     "_id": "65033d0f5a7ea4c6e5ecfdbc",
@@ -4136,7 +4468,9 @@
       "049244078"
     ],
     "__v": 0,
-    "subgrade": 5
+    "parent": "Sami",
+    "subclass": "3",
+    "teacher": "Lulzim Bajrami"
   },
   {
     "_id": "65033d0f5a7ea4c6e5ecfdbe",
@@ -4157,7 +4491,9 @@
       "044123280"
     ],
     "__v": 0,
-    "subgrade": 5
+    "parent": "Bajram",
+    "subclass": "3",
+    "teacher": "Lulzim Bajrami"
   },
   {
     "_id": "65033d105a7ea4c6e5ecfdc0",
@@ -4178,7 +4514,9 @@
       "048211807"
     ],
     "__v": 0,
-    "subgrade": 5
+    "parent": "Ruzhdi",
+    "subclass": "3",
+    "teacher": "Lulzim Bajrami"
   },
   {
     "_id": "65033d105a7ea4c6e5ecfdc2",
@@ -4199,7 +4537,9 @@
       "045332712"
     ],
     "__v": 0,
-    "subgrade": 5
+    "parent": "Adem",
+    "subclass": "3",
+    "teacher": "Lulzim Bajrami"
   },
   {
     "_id": "65033d105a7ea4c6e5ecfdc4",
@@ -4220,7 +4560,9 @@
       "044424714"
     ],
     "__v": 0,
-    "subgrade": 6
+    "parent": "Musah",
+    "subclass": "4",
+    "teacher": "Arbër Shabani"
   },
   {
     "_id": "65033d105a7ea4c6e5ecfdc6",
@@ -4241,7 +4583,9 @@
       "044846476"
     ],
     "__v": 0,
-    "subgrade": 6
+    "parent": "Xhelal",
+    "subclass": "4",
+    "teacher": "Arbër Shabani"
   },
   {
     "_id": "65033d105a7ea4c6e5ecfdc8",
@@ -4261,8 +4605,10 @@
     "numbers": [
       "049245145"
     ],
+    "parent": "Adem",
     "__v": 0,
-    "subgrade": 6
+    "subclass": "4",
+    "teacher": "Arbër Shabani"
   },
   {
     "_id": "65033d105a7ea4c6e5ecfdca",
@@ -4282,7 +4628,9 @@
       "045239557"
     ],
     "__v": 0,
-    "subgrade": 6
+    "parent": "Xhevat",
+    "subclass": "4",
+    "teacher": "Arbër Shabani"
   },
   {
     "_id": "65033d105a7ea4c6e5ecfdcc",
@@ -4303,7 +4651,9 @@
       "045353183"
     ],
     "__v": 0,
-    "subgrade": 6
+    "parent": "Artan",
+    "subclass": "4",
+    "teacher": "Arbër Shabani"
   },
   {
     "_id": "65033d115a7ea4c6e5ecfdce",
@@ -4323,8 +4673,10 @@
     "numbers": [
       "044320182"
     ],
+    "parent": "Naser",
     "__v": 0,
-    "subgrade": 6
+    "subclass": "4",
+    "teacher": "Arbër Shabani"
   },
   {
     "_id": "65033d115a7ea4c6e5ecfdd0",
@@ -4344,7 +4696,9 @@
       "044622943"
     ],
     "__v": 0,
-    "subgrade": 7
+    "parent": "Maliq",
+    "subclass": "4",
+    "teacher": "Arbër Shabani"
   },
   {
     "_id": "65033d115a7ea4c6e5ecfdd2",
@@ -4365,7 +4719,9 @@
       "045637310"
     ],
     "__v": 0,
-    "subgrade": 8
+    "parent": "Murat",
+    "subclass": "5",
+    "teacher": "Xhafer Xhelili"
   },
   {
     "_id": "65033d115a7ea4c6e5ecfdd4",
@@ -4385,7 +4741,9 @@
       "045369568"
     ],
     "__v": 0,
-    "subgrade": 8
+    "parent": "Arbena",
+    "subclass": "5",
+    "teacher": "Xhafer Xhelili"
   },
   {
     "_id": "65033d115a7ea4c6e5ecfdd6",
@@ -4402,8 +4760,7 @@
     "city": "Gjilan",
     "birthday": "01.08.2006",
     "numbers": [],
-    "__v": 0,
-    "subgrade": 8
+    "__v": 0
   },
   {
     "_id": "65033d115a7ea4c6e5ecfdd8",
@@ -4424,7 +4781,9 @@
       "045661128"
     ],
     "__v": 0,
-    "subgrade": 8
+    "parent": "Basri",
+    "subclass": "5",
+    "teacher": "Xhafer Xhelili"
   },
   {
     "_id": "65033d115a7ea4c6e5ecfdda",
@@ -4444,8 +4803,8 @@
     "numbers": [
       "044143522"
     ],
-    "__v": 0,
-    "subgrade": 8
+    "parent": "Muhamet",
+    "__v": 0
   },
   {
     "_id": "65033d125a7ea4c6e5ecfddc",
@@ -4465,7 +4824,9 @@
       "044417602"
     ],
     "__v": 0,
-    "subgrade": 8
+    "parent": "Agim",
+    "subclass": "5",
+    "teacher": "Xhafer Xhelili"
   },
   {
     "_id": "65033d125a7ea4c6e5ecfdde",
@@ -4485,7 +4846,9 @@
       "045570420"
     ],
     "__v": 0,
-    "subgrade": 9
+    "parent": "Besnik",
+    "subclass": "5",
+    "teacher": "Xhafer Xhelili"
   },
   {
     "_id": "65033d125a7ea4c6e5ecfde0",
@@ -4506,7 +4869,9 @@
       "044313388"
     ],
     "__v": 0,
-    "subgrade": 10
+    "parent": "Xhafer",
+    "subclass": "6",
+    "teacher": "Burim Dërmaku"
   },
   {
     "_id": "65033d125a7ea4c6e5ecfde2",
@@ -4527,7 +4892,9 @@
       "046127874"
     ],
     "__v": 0,
-    "subgrade": 10
+    "parent": "Ismajl",
+    "subclass": "6",
+    "teacher": "Burim Dërmaku"
   },
   {
     "_id": "65033d125a7ea4c6e5ecfde4",
@@ -4548,7 +4915,9 @@
       "044296828"
     ],
     "__v": 0,
-    "subgrade": 10
+    "parent": "Enver",
+    "subclass": "6",
+    "teacher": "Burim Dërmaku"
   },
   {
     "_id": "65033d125a7ea4c6e5ecfde6",
@@ -4570,7 +4939,9 @@
       "045104012"
     ],
     "__v": 0,
-    "subgrade": 10
+    "parent": "Faton",
+    "subclass": "6",
+    "teacher": "Burim Dërmaku"
   },
   {
     "_id": "65033d125a7ea4c6e5ecfde8",
@@ -4592,7 +4963,9 @@
       "045243281"
     ],
     "__v": 0,
-    "subgrade": 10
+    "parent": "Bejtullah",
+    "subclass": "6",
+    "teacher": "Burim Dërmaku"
   },
   {
     "_id": "65033d135a7ea4c6e5ecfdea",
@@ -4614,7 +4987,9 @@
       "045415998"
     ],
     "__v": 0,
-    "subgrade": 10
+    "parent": "Shaban",
+    "subclass": "6",
+    "teacher": "Burim Dërmaku"
   },
   {
     "_id": "65033d135a7ea4c6e5ecfdec",
@@ -4634,8 +5009,7 @@
     "numbers": [
       "045804429"
     ],
-    "__v": 0,
-    "subgrade": 10
+    "__v": 0
   },
   {
     "_id": "65033d135a7ea4c6e5ecfdee",
@@ -4656,7 +5030,9 @@
       "044320345"
     ],
     "__v": 0,
-    "subgrade": 10
+    "parent": "Fazli",
+    "subclass": "6",
+    "teacher": "Burim Dërmaku"
   },
   {
     "_id": "65033d135a7ea4c6e5ecfdf0",
@@ -4677,7 +5053,9 @@
       "044477392"
     ],
     "__v": 0,
-    "subgrade": 10
+    "parent": "Burim",
+    "subclass": "6",
+    "teacher": "Burim Dërmaku"
   },
   {
     "_id": "65033d135a7ea4c6e5ecfdf2",
@@ -4698,7 +5076,9 @@
       "049812187"
     ],
     "__v": 0,
-    "subgrade": 10
+    "parent": "Enver",
+    "subclass": "6",
+    "teacher": "Burim Dërmaku"
   },
   {
     "_id": "65033d135a7ea4c6e5ecfdf4",
@@ -4719,7 +5099,9 @@
       "048135602"
     ],
     "__v": 0,
-    "subgrade": 11
+    "parent": "Kemajl",
+    "subclass": "6",
+    "teacher": "Burim Dërmaku"
   },
   {
     "_id": "65033d135a7ea4c6e5ecfdf6",
@@ -4741,7 +5123,9 @@
       "045724918"
     ],
     "__v": 0,
-    "subgrade": 11
+    "parent": "Naim",
+    "subclass": "6",
+    "teacher": "Burim Dërmaku"
   },
   {
     "_id": "65033d135a7ea4c6e5ecfdf8",
@@ -4762,7 +5146,9 @@
       "045435249"
     ],
     "__v": 0,
-    "subgrade": 12
+    "parent": "Isuf",
+    "subclass": "7",
+    "teacher": "Bujar Kurteshi"
   },
   {
     "_id": "65033d145a7ea4c6e5ecfdfa",
@@ -4783,7 +5169,9 @@
       "045817219"
     ],
     "__v": 0,
-    "subgrade": 12
+    "parent": "Tefik",
+    "subclass": "7",
+    "teacher": "Bujar Kurteshi"
   },
   {
     "_id": "65033d145a7ea4c6e5ecfdfc",
@@ -4805,7 +5193,9 @@
       "045584489"
     ],
     "__v": 0,
-    "subgrade": 12
+    "parent": "Rexhep",
+    "subclass": "7",
+    "teacher": "Bujar Kurteshi"
   },
   {
     "_id": "65033d145a7ea4c6e5ecfdfe",
@@ -4826,7 +5216,9 @@
       "044518802"
     ],
     "__v": 0,
-    "subgrade": 12
+    "parent": "Adem",
+    "subclass": "7",
+    "teacher": "Bujar Kurteshi"
   },
   {
     "_id": "65033d145a7ea4c6e5ecfe00",
@@ -4847,7 +5239,9 @@
       "044656223"
     ],
     "__v": 0,
-    "subgrade": 12
+    "parent": "Arsim",
+    "subclass": "7",
+    "teacher": "Bujar Kurteshi"
   },
   {
     "_id": "65033d145a7ea4c6e5ecfe02",
@@ -4867,7 +5261,9 @@
       "045594570"
     ],
     "__v": 0,
-    "subgrade": 12
+    "parent": "Ismet",
+    "subclass": "7",
+    "teacher": "Bujar Kurteshi"
   },
   {
     "_id": "65033d145a7ea4c6e5ecfe04",
@@ -4888,7 +5284,9 @@
       "044369119"
     ],
     "__v": 0,
-    "subgrade": 12
+    "parent": "Sabit",
+    "subclass": "7",
+    "teacher": "Bujar Kurteshi"
   },
   {
     "_id": "65033d145a7ea4c6e5ecfe06",
@@ -4908,7 +5306,9 @@
       "044866069"
     ],
     "__v": 0,
-    "subgrade": 12
+    "parent": "Xhevat",
+    "subclass": "7",
+    "teacher": "Bujar Kurteshi"
   },
   {
     "_id": "65033d155a7ea4c6e5ecfe08",
@@ -4928,8 +5328,8 @@
     "numbers": [
       "046112283"
     ],
-    "__v": 0,
-    "subgrade": 13
+    "parent": "Besim",
+    "__v": 0
   },
   {
     "_id": "65033d155a7ea4c6e5ecfe0a",
@@ -4949,7 +5349,9 @@
       "044717536"
     ],
     "__v": 0,
-    "subgrade": 13
+    "parent": "Fehmi",
+    "subclass": "8",
+    "teacher": "Zenun Ukshini"
   },
   {
     "_id": "65033d155a7ea4c6e5ecfe0c",
@@ -4970,7 +5372,9 @@
       "045257428"
     ],
     "__v": 0,
-    "subgrade": 14
+    "parent": "Sahit",
+    "subclass": "8",
+    "teacher": "Zenun Ukshini"
   },
   {
     "_id": "65033d155a7ea4c6e5ecfe0e",
@@ -4991,7 +5395,9 @@
       "045539977"
     ],
     "__v": 0,
-    "subgrade": 14
+    "parent": "Liman",
+    "subclass": "8",
+    "teacher": "Zenun Ukshini"
   },
   {
     "_id": "65033d155a7ea4c6e5ecfe10",
@@ -5012,7 +5418,9 @@
       "045259894"
     ],
     "__v": 0,
-    "subgrade": 15
+    "parent": "Rahim",
+    "subclass": "9",
+    "teacher": "Arton Mehmeti"
   },
   {
     "_id": "65033d155a7ea4c6e5ecfe12",
@@ -5033,7 +5441,9 @@
       "044575138"
     ],
     "__v": 0,
-    "subgrade": 15
+    "parent": "Liman",
+    "subclass": "9",
+    "teacher": "Arton Mehmeti"
   },
   {
     "_id": "65033d155a7ea4c6e5ecfe14",
@@ -5054,7 +5464,9 @@
       "045621903"
     ],
     "__v": 0,
-    "subgrade": 15
+    "parent": "Sylejman",
+    "subclass": "9",
+    "teacher": "Arton Mehmeti"
   },
   {
     "_id": "65033d165a7ea4c6e5ecfe16",
@@ -5075,7 +5487,9 @@
       "044803602"
     ],
     "__v": 0,
-    "subgrade": 15
+    "parent": "Ragip",
+    "subclass": "9",
+    "teacher": "Arton Mehmeti"
   },
   {
     "_id": "65033d165a7ea4c6e5ecfe18",
@@ -5096,7 +5510,9 @@
       "044415389"
     ],
     "__v": 0,
-    "subgrade": 15
+    "parent": "Ruzhdi",
+    "subclass": "9",
+    "teacher": "Arton Mehmeti"
   },
   {
     "_id": "65033d165a7ea4c6e5ecfe1a",
@@ -5117,7 +5533,9 @@
       "049691250"
     ],
     "__v": 0,
-    "subgrade": 15
+    "parent": "Burim",
+    "subclass": "9",
+    "teacher": "Arton Mehmeti"
   },
   {
     "_id": "65033d165a7ea4c6e5ecfe1c",
@@ -5137,8 +5555,10 @@
     "numbers": [
       "044396657"
     ],
+    "parent": "Miredita",
     "__v": 0,
-    "subgrade": 15
+    "subclass": "9",
+    "teacher": "Arton Mehmeti"
   },
   {
     "_id": "65033d165a7ea4c6e5ecfe1e",
@@ -5159,7 +5579,9 @@
       "046110259"
     ],
     "__v": 0,
-    "subgrade": 15
+    "parent": "Ekrem",
+    "subclass": "9",
+    "teacher": "Arton Mehmeti"
   },
   {
     "_id": "65033d165a7ea4c6e5ecfe20",
@@ -5179,7 +5601,9 @@
       "044412681"
     ],
     "__v": 0,
-    "subgrade": 15
+    "parent": "Ruzhdi",
+    "subclass": "9",
+    "teacher": "Arton Mehmeti"
   },
   {
     "_id": "65033d165a7ea4c6e5ecfe22",
@@ -5200,7 +5624,9 @@
       "045545690"
     ],
     "__v": 0,
-    "subgrade": 15
+    "parent": "Rexhep",
+    "subclass": "9",
+    "teacher": "Arton Mehmeti"
   },
   {
     "_id": "65033d175a7ea4c6e5ecfe24",
@@ -5221,7 +5647,9 @@
       "044342604"
     ],
     "__v": 0,
-    "subgrade": 15
+    "parent": "Zijadin",
+    "subclass": "9",
+    "teacher": "Arton Mehmeti"
   },
   {
     "_id": "65033d175a7ea4c6e5ecfe26",
@@ -5242,7 +5670,9 @@
       "049451166"
     ],
     "__v": 0,
-    "subgrade": 15
+    "parent": "Avdi",
+    "subclass": "9",
+    "teacher": "Arton Mehmeti"
   },
   {
     "_id": "65033d175a7ea4c6e5ecfe28",
@@ -5262,8 +5692,7 @@
     "numbers": [
       "044244332"
     ],
-    "__v": 0,
-    "subgrade": 15
+    "__v": 0
   },
   {
     "_id": "65033d175a7ea4c6e5ecfe2a",
@@ -5284,7 +5713,9 @@
       "044652991"
     ],
     "__v": 0,
-    "subgrade": 15
+    "parent": "Vehbi",
+    "subclass": "9",
+    "teacher": "Arton Mehmeti"
   },
   {
     "_id": "65033d175a7ea4c6e5ecfe2c",
@@ -5305,7 +5736,9 @@
       "045873101"
     ],
     "__v": 0,
-    "subgrade": 16
+    "parent": "Nexhat",
+    "subclass": "10",
+    "teacher": "Xhevdet Agaj"
   },
   {
     "_id": "65033d175a7ea4c6e5ecfe2e",
@@ -5326,7 +5759,9 @@
       "045376942"
     ],
     "__v": 0,
-    "subgrade": 16
+    "parent": "Hajrush",
+    "subclass": "10",
+    "teacher": "Xhevdet Agaj"
   },
   {
     "_id": "65033d175a7ea4c6e5ecfe30",
@@ -5347,7 +5782,9 @@
       "045961894"
     ],
     "__v": 0,
-    "subgrade": 16
+    "parent": "Lulzim",
+    "subclass": "10",
+    "teacher": "Xhevdet Agaj"
   },
   {
     "_id": "65033d175a7ea4c6e5ecfe32",
@@ -5368,7 +5805,9 @@
       "044862919"
     ],
     "__v": 0,
-    "subgrade": 16
+    "parent": "Agim",
+    "subclass": "10",
+    "teacher": "Xhevdet Agaj"
   },
   {
     "_id": "65033d185a7ea4c6e5ecfe34",
@@ -5389,7 +5828,9 @@
       "045276458"
     ],
     "__v": 0,
-    "subgrade": 16
+    "parent": "Hysen",
+    "subclass": "10",
+    "teacher": "Xhevdet Agaj"
   },
   {
     "_id": "65033d185a7ea4c6e5ecfe36",
@@ -5410,7 +5851,9 @@
       "045612381"
     ],
     "__v": 0,
-    "subgrade": 16
+    "parent": "Beqir",
+    "subclass": "10",
+    "teacher": "Xhevdet Agaj"
   },
   {
     "_id": "65033d185a7ea4c6e5ecfe38",
@@ -5431,7 +5874,9 @@
       "045965738"
     ],
     "__v": 0,
-    "subgrade": 16
+    "parent": "Skender",
+    "subclass": "10",
+    "teacher": "Xhevdet Agaj"
   },
   {
     "_id": "65033d185a7ea4c6e5ecfe3a",
@@ -5452,7 +5897,9 @@
       "045258354"
     ],
     "__v": 0,
-    "subgrade": 16
+    "parent": "Bekim",
+    "subclass": "10",
+    "teacher": "Xhevdet Agaj"
   },
   {
     "_id": "65033d185a7ea4c6e5ecfe3c",
@@ -5473,7 +5920,9 @@
       "045274235"
     ],
     "__v": 0,
-    "subgrade": 16
+    "parent": "Nazim",
+    "subclass": "10",
+    "teacher": "Xhevdet Agaj"
   },
   {
     "_id": "65033d185a7ea4c6e5ecfe3e",
@@ -5495,7 +5944,9 @@
       "045781647"
     ],
     "__v": 0,
-    "subgrade": 16
+    "parent": "Feim",
+    "subclass": "10",
+    "teacher": "Xhevdet Agaj"
   },
   {
     "_id": "65033d185a7ea4c6e5ecfe40",
@@ -5516,7 +5967,9 @@
       "045889432"
     ],
     "__v": 0,
-    "subgrade": 17
+    "parent": "Hajriz",
+    "subclass": "10",
+    "teacher": "Xhevdet Agaj"
   },
   {
     "_id": "65033d195a7ea4c6e5ecfe42",
@@ -5537,7 +5990,9 @@
       "044884714"
     ],
     "__v": 0,
-    "subgrade": 18
+    "parent": "Sefer",
+    "subclass": "10",
+    "teacher": "Xhevdet Agaj"
   },
   {
     "_id": "65033d195a7ea4c6e5ecfe44",
@@ -5558,7 +6013,9 @@
       "044397609"
     ],
     "__v": 0,
-    "subgrade": 18
+    "parent": "Nexhmedin",
+    "subclass": "11",
+    "teacher": "Sefer Kastrati"
   },
   {
     "_id": "65033d195a7ea4c6e5ecfe46",
@@ -5580,7 +6037,9 @@
       "049553959"
     ],
     "__v": 0,
-    "subgrade": 18
+    "parent": "Adem",
+    "subclass": "11",
+    "teacher": "Sefer Kastrati"
   },
   {
     "_id": "65033d195a7ea4c6e5ecfe48",
@@ -5601,7 +6060,9 @@
       "045964981"
     ],
     "__v": 0,
-    "subgrade": 18
+    "parent": "Nexhat",
+    "subclass": "11",
+    "teacher": "Sefer Kastrati"
   },
   {
     "_id": "65033d195a7ea4c6e5ecfe4a",
@@ -5622,7 +6083,9 @@
       "045917859"
     ],
     "__v": 0,
-    "subgrade": 18
+    "parent": "Skender",
+    "subclass": "11",
+    "teacher": "Sefer Kastrati"
   },
   {
     "_id": "65033d195a7ea4c6e5ecfe4c",
@@ -5643,7 +6106,9 @@
       "049455569"
     ],
     "__v": 0,
-    "subgrade": 18
+    "parent": "Selver",
+    "subclass": "11",
+    "teacher": "Sefer Kastrati"
   },
   {
     "_id": "65033d195a7ea4c6e5ecfe4e",
@@ -5664,7 +6129,9 @@
       "044180936"
     ],
     "__v": 0,
-    "subgrade": 18
+    "parent": "Raif",
+    "subclass": "11",
+    "teacher": "Sefer Kastrati"
   },
   {
     "_id": "65033d1a5a7ea4c6e5ecfe50",
@@ -5685,7 +6152,9 @@
       "044604870"
     ],
     "__v": 0,
-    "subgrade": 18
+    "parent": "Xhevdet",
+    "subclass": "11",
+    "teacher": "Sefer Kastrati"
   },
   {
     "_id": "65033d1a5a7ea4c6e5ecfe52",
@@ -5705,8 +6174,8 @@
     "numbers": [
       "044766463"
     ],
-    "__v": 0,
-    "subgrade": 19
+    "parent": "Flamur",
+    "__v": 0
   },
   {
     "_id": "65033d1a5a7ea4c6e5ecfe54",
@@ -5727,7 +6196,9 @@
       "049671615"
     ],
     "__v": 0,
-    "subgrade": 19
+    "parent": "Zijadin",
+    "subclass": "12",
+    "teacher": "Hata Shkodra"
   },
   {
     "_id": "65033d1a5a7ea4c6e5ecfe56",
@@ -5747,7 +6218,9 @@
       "044492745"
     ],
     "__v": 0,
-    "subgrade": 19
+    "parent": "Naser",
+    "subclass": "12",
+    "teacher": "Hata Shkodra"
   },
   {
     "_id": "65033d1a5a7ea4c6e5ecfe58",
@@ -5766,8 +6239,10 @@
     "numbers": [
       "049558069"
     ],
+    "parent": "Senat",
     "__v": 0,
-    "subgrade": 19
+    "subclass": "12",
+    "teacher": "Hata Shkodra"
   },
   {
     "_id": "65033d1a5a7ea4c6e5ecfe5a",
@@ -5787,7 +6262,9 @@
       "044909814"
     ],
     "__v": 0,
-    "subgrade": 20
+    "parent": "Maksut",
+    "subclass": "12",
+    "teacher": "Hata Shkodra"
   },
   {
     "_id": "65033d1a5a7ea4c6e5ecfe5c",
@@ -5807,7 +6284,9 @@
       "044968705"
     ],
     "__v": 0,
-    "subgrade": 20
+    "parent": "Rexhep",
+    "subclass": "12",
+    "teacher": "Hata Shkodra"
   },
   {
     "_id": "65033d1a5a7ea4c6e5ecfe5e",
@@ -5826,7 +6305,7 @@
     "numbers": [
       "044658301"
     ],
-    "__v": 0,
-    "subgrade": 20
+    "parent": "Sedat",
+    "__v": 0
   }
 ]
