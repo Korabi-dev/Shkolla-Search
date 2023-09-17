@@ -97,7 +97,7 @@ app.get("/email/:pw/:data", async (req, res) => {
     const modifiedContent = file
       .replace("{{full_name}}", full_name)
       .replace("{{h1}}", h1)
-      .replace("{{text}}", data.text)
+      .replace("{{text}}", data.text.replace(/\n/g, "<br />"))
       .replace("{{watermark}}", wm)
       .replace("{{gender}}", gender);
     var mailOptions = {
