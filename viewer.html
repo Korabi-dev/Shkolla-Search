@@ -228,7 +228,7 @@
           return things[a.toLowerCase()] || a;
         }
         function format2(a) {
-            return things2[a.toLowerCase()] || a;
+          return things2[a.toLowerCase()] || a;
         }
         function button(name, cb) {
           const newbutton = document.createElement("button");
@@ -241,40 +241,53 @@
           searchText = searchText.toLowerCase();
           let d;
           if (searchText.startsWith("{") && searchText.endsWith("}")) {
-              v = false;
-              try {
-                d = JSON.parse(searchText);
-              } catch (e) {
-                d = false
-              }
+            v = false;
+            try {
+              d = JSON.parse(searchText);
+            } catch (e) {
+              d = false;
             }
-            if(searchText.replace(/ /g, "") == "{}") d = false;
+          }
+          if (searchText.replace(/ /g, "") == "{}") d = false;
           jsonData.forEach((data) => {
-            let v; 
-            if(!d) {
-            v =
-              data.name.toLowerCase().includes(searchText) ||
-              data.surname.toLowerCase().includes(searchText) ||
-              (data.name + data.surname)
-                .toLowerCase()
-                .replace(/ /g, "")
-                .startsWith(searchText.replace(/ /g, ""));
+            let v;
+            if (!d) {
+              v =
+                data.name.toLowerCase().includes(searchText) ||
+                data.surname.toLowerCase().includes(searchText) ||
+                (data.name + data.surname)
+                  .toLowerCase()
+                  .replace(/ /g, "")
+                  .startsWith(searchText.replace(/ /g, "")) ||
+                `#${data.id_num.replace(/^0+/, "")}` ==
+                  searchText.replace(/^0+/, "");
             }
-              if(d) {
-                let nom = false;
-                for(const key in d) {
-                    let dk = d[key]
-                    let dd = data[format2(key)]
-                    let ddt = typeof dk
-                    if(ddt == "string") {dk = dk.toLowerCase()} else {if(ddt == "number" && format2(key) == "id_num"){dk = String(dk); dd = dd.replace(/^0+/, "")} else {console.log(format2(key))}}
-                    if(dd & typeof dd == "string") {dd = dd.toLowerCase(); } 
-                    if(dd != dk) {
-                        nom = true;
-                        break;
-                    }
+            if (d) {
+              let nom = false;
+              for (const key in d) {
+                let dk = d[key];
+                let dd = data[format2(key)];
+                let ddt = typeof dk;
+                if (ddt == "string") {
+                  dk = dk.toLowerCase();
+                } else {
+                  if (ddt == "number" && format2(key) == "id_num") {
+                    dk = String(dk);
+                    dd = dd.replace(/^0+/, "");
+                  } else {
+                    console.log(format2(key));
+                  }
                 }
-                if(!nom) v = true;
-              } 
+                if (dd & (typeof dd == "string")) {
+                  dd = dd.toLowerCase();
+                }
+                if (dd != dk) {
+                  nom = true;
+                  break;
+                }
+              }
+              if (!nom) v = true;
+            }
             if (v) {
               const item = document.createElement("div");
               item.classList.add("item");
