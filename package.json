@@ -10,10 +10,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^1.5.0",
     "cors": "^2.8.5",
     "express": "^4.18.2",
     "express-rate-limit": "^7.0.1",
     "mongoose": "^7.5.1",
-    "nodemailer": "^6.9.5"
+    "node-viber-bot-api": "^2.0.3",
+    "nodemailer": "^6.9.5",
+    "viber-bot": "^1.0.18"
   }
 }

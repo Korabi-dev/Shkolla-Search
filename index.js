@@ -115,6 +115,39 @@ app.get("/getall/:pw?", customRateLimiter, async (req, res) => {
   res.send({ error: false, res: data });
 });
 
+const ViberBot = require('viber-bot').Bot;
+const BotEvents = require('viber-bot').Events;
+
+const bot = new ViberBot({
+    name: 'SH.M.T "Mehmet Isai"',
+    avatar: "https://i.imgur.com/09CYa3f.png",
+  authToken: '51a4d9841ea7e1d5-665c8780fde60ef8-1923143e8d7685e1'
+});
+
+bot.on(BotEvents.SUBSCRIBED, (response) => {
+  console.log(`User subscribed: ${response.userProfile.name} ${response.userProfile.id}`);
+  response.send(new TextMessage("Mirsevini ne sistemin e njoftimit për SH.M.T \"Mehmet Isai\"!"));
+});
+
+bot.onTextMessage(/hello|hi/i, (message, response) => {
+  response.send(new TextMessage(`Hello, ${message.sender.name}! How can I assist you today?`));
+});
+
+bot.on(BotEvents.MESSAGE_RECEIVED, (message, response) => {
+  console.log(`Message received: ${message.text}`);
+});
+
+bot.on(BotEvents.CONVERSATION_STARTED, (userProfile, isSubscribed, context, onFinish) => {
+  console.log(`Conversation started with ${userProfile.name}`);
+  onFinish(new TextMessage("Hello! How can I assist you today?"));
+});
+
+bot.on(BotEvents.ERROR, (error) => {
+  console.error(`Error: ${error}`);
+});
+
+app.use("/viber/webhook", bot.middleware());
+
 app.listen(port, function () {
   console.log(`Listening on port ${port}`);
 });
