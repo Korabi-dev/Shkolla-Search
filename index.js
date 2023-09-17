@@ -117,7 +117,7 @@ app.get("/getall/:pw?", customRateLimiter, async (req, res) => {
 
 const ViberBot = require('viber-bot').Bot;
 const BotEvents = require('viber-bot').Events;
-
+const TextMessage = require('viber-bot').Message.Text;
 const bot = new ViberBot({
     name: 'SH.M.T "Mehmet Isai"',
     avatar: "https://i.imgur.com/09CYa3f.png",
