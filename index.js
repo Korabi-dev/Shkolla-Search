@@ -10,7 +10,9 @@ const limiter = rateLimit({
   windowMs: 60 * 1 * 1000,
   max: 2,
   handler: (req, res) => {
-    res.status(429).json({ error: true, res: "Shum kerkesa, ju lutem provoni më von" });
+    res
+      .status(429)
+      .json({ error: true, res: "Shum kerkesa, ju lutem provoni më von" });
   },
 });
 
@@ -18,7 +20,7 @@ function customRateLimiter(req, res, next) {
   if (req.params.pw && req?.params?.pw === pws[0]) {
     return next();
   }
-  return limiter(req, res, next); 
+  return limiter(req, res, next);
 }
 
 let user = "notifications@edu.mehmetisai.xyz";
@@ -77,6 +79,16 @@ app.get("/email/:pw/:data", async (req, res) => {
   let h1 = data.h1 || "Njoftim";
   let full_name = `${data.student.name} ${data.student.surname}`;
   let wm = data?.wm + "<br>" || "";
+  let gender;
+  if (data.student.gender.toLowerCase().startsWith("m")) {
+    gender = "I";
+  }
+  if (data.student.gender.toLowerCase().startsWith("f")) {
+    gender = "E";
+  }
+  if(!gender){
+    gender = "I/E"
+  }
   fs.readFile("./test.html", "utf8", (err, file) => {
     if (err) {
       console.error(err);
@@ -86,7 +98,8 @@ app.get("/email/:pw/:data", async (req, res) => {
       .replace("{{full_name}}", full_name)
       .replace("{{h1}}", h1)
       .replace("{{text}}", data.text)
-      .replace("{{watermark}}", wm);
+      .replace("{{watermark}}", wm)
+      .replace("{{gender}}", gender);
     var mailOptions = {
       from: `SH.M.T "Mehmet Isai" <${user}>`,
       to: data.student.email,
@@ -115,31 +128,36 @@ app.get("/getall/:pw?", customRateLimiter, async (req, res) => {
   res.send({ error: false, res: data });
 });
 
-const ViberBot = require('viber-bot').Bot;
-const BotEvents = require('viber-bot').Events;
-const TextMessage = require('viber-bot').Message.Text;
+const ViberBot = require("viber-bot").Bot;
+const BotEvents = require("viber-bot").Events;
+const TextMessage = require("viber-bot").Message.Text;
 const bot = new ViberBot({
-    name: 'SH.M.T "Mehmet Isai"',
-    avatar: "https://i.imgur.com/09CYa3f.png",
-  authToken: '51a4d9841ea7e1d5-665c8780fde60ef8-1923143e8d7685e1'
+  name: 'SH.M.T "Mehmet Isai"',
+  avatar: "https://i.imgur.com/09CYa3f.png",
+  authToken: "51a4d9841ea7e1d5-665c8780fde60ef8-1923143e8d7685e1",
 });
 
 bot.on(BotEvents.SUBSCRIBED, (response) => {
-  console.log(`User subscribed: ${response.userProfile.name} ${response.userProfile.id}`);
-  response.send(new TextMessage(`I/E dashur ${response.userProfile.name}. Mirsevini ne sistemin e njoftimit të prindve për SH.M.T "Mehmet Isai"!`));
+  console.log(
+    `User subscribed: ${response.userProfile.name} ${response.userProfile.id}`
+  );
+  response.send(
+    new TextMessage(
+      `I/E dashur ${response.userProfile.name}. Mirsevini ne sistemin e njoftimit të prindve për SH.M.T "Mehmet Isai"!`
+    )
+  );
 });
 
 bot.onTextMessage(/hello|hi/i, (message, response) => {
-  response.send(new TextMessage(`Hello, ${response.userProfile.name}! How can I assist you today?`));
+  response.send(
+    new TextMessage(
+      `Hello, ${response.userProfile.name}! How can I assist you today?`
+    )
+  );
 });
 
 bot.on(BotEvents.MESSAGE_RECEIVED, (message, response) => {
   console.log(`Message received: ${message.text}`);
-});
-
-bot.on(BotEvents.CONVERSATION_STARTED, (userProfile, isSubscribed, context, onFinish) => {
-  console.log(`Conversation started with ${userProfile.name}`);
-  onFinish(new TextMessage("Hello! How can I assist you today?"));
 });
 
 bot.on(BotEvents.ERROR, (error) => {
