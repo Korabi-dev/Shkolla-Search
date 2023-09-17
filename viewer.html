@@ -319,21 +319,23 @@
               if (data?.email) {
                 details.appendChild(
                   button("Send Email", async (button) => {
-                    let tit = window.prompt("Titulli i email (opsional):");
-                    let head = window.prompt("Header i email (opsional):");
+                    let tit = window.prompt("Titulli i email-it (opsional):");
+                    let head = window.prompt("Header i email-it (opsional):");
+                    let wm = window.prompt("Pershendetja e email-it (opsional):")
                     let txt = window.prompt("Njoftimi:");
                     if (!txt || (txt && txt.replace(/ /g, "") == ""))
                       return window.alert("Njoftimi nuk mund të jet i zbrazët");
                     let dt = { student: data, text: txt };
                     if (tit && tit.replace(/ /g, "") != "") dt.title = tit;
                     if (head && head.replace(/ /g, "") != "") dt.h1 = head;
+                    if (wm && wm.replace(/ /g, "") != "") dt.wm = wm;
                     let r = await fetch(`${url}email/${JSON.stringify(dt)}`);
                     if (r.status == 400 || r.status == 500) {
                       try {
                         button.remove();
                       } catch (e) {}
                       window.alert(
-                        "Ka ndodhur një gabim, ju lutemi kontaktoni korabin"
+                        "Ka ndodhur një gabim, ju lutemi kontaktoni korabin " + String(r.status)
                       );
                       return;
                     }
@@ -345,7 +347,7 @@
                       button.remove();
                     } catch (e) {}
                     window.alert(
-                      "Ka ndodhur një gabim katastrofik, ju lutemi kontaktoni korabin"
+                      "Ka ndodhur një gabim katastrofik, ju lutemi kontaktoni korabin 0x2"
                     );
                     return;
                   })

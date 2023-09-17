@@ -44,7 +44,6 @@ app.get("/student/:query", async (req, res) => {
   res.send({ error: false, res: data });
 });
 
-
 app.get("/email/:data", async (req, res) => {
   let data1 = req.params.data;
   if (!data1) return res.sendStatus(400);
@@ -67,6 +66,7 @@ app.get("/email/:data", async (req, res) => {
     return res.sendStatus(400);
   let h1 = data.h1 || "Njoftim";
   let full_name = `${data.student.name} ${data.student.surname}`;
+  let wm = data?.wm + "<br>" || "";
   fs.readFile("./test.html", "utf8", (err, file) => {
     if (err) {
       console.error(err);
@@ -75,9 +75,10 @@ app.get("/email/:data", async (req, res) => {
     const modifiedContent = file
       .replace("{{full_name}}", full_name)
       .replace("{{h1}}", h1)
-      .replace("{{text}}", data.text);
+      .replace("{{text}}", data.text)
+      .replace("{{watermark}}", wm);
     var mailOptions = {
-      from: user,
+      from: `SH.M.T "Mehmet Isai" <${user}>`,
       to: data.student.email,
       subject: data.title || "Njoftim",
       html: modifiedContent,
