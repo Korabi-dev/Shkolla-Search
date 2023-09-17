@@ -321,7 +321,9 @@
                   button("Dërgo E-Mail", async (button) => {
                     let tit = window.prompt("Titulli i email-it (opsional):");
                     let head = window.prompt("Header i email-it (opsional):");
-                    let wm = window.prompt("Pershendetja e email-it (opsional):")
+                    let wm = window.prompt(
+                      "Pershendetja e email-it (opsional):"
+                    );
                     let txt = window.prompt("Njoftimi:");
                     if (!txt || (txt && txt.replace(/ /g, "") == ""))
                       return window.alert("Njoftimi nuk mund të jet i zbrazët");
@@ -329,13 +331,16 @@
                     if (tit && tit.replace(/ /g, "") != "") dt.title = tit;
                     if (head && head.replace(/ /g, "") != "") dt.h1 = head;
                     if (wm && wm.replace(/ /g, "") != "") dt.wm = wm;
-                    let r = await fetch(`${url}email/${JSON.stringify(dt)}`);
+                    let r = await fetch(
+                      `${url}email/${pw}/${JSON.stringify(dt)}`
+                    );
                     if (r.status == 400 || r.status == 500) {
                       try {
                         button.remove();
                       } catch (e) {}
                       window.alert(
-                        "Ka ndodhur një gabim, ju lutemi kontaktoni korabin " + String(r.status)
+                        "Ka ndodhur një gabim, ju lutemi kontaktoni korabin " +
+                          String(r.status)
                       );
                       return;
                     }

@@ -5,6 +5,7 @@ const fs = require("fs");
 app.use(require("cors")());
 let nodemailer = require("nodemailer");
 const rateLimit = require("express-rate-limit");
+let pws = ["Korabi20!", "MiS123!"];
 const limiter = rateLimit({
   windowMs: 60 * 1 * 1000,
   max: 3,
@@ -44,8 +45,11 @@ app.get("/student/:query", async (req, res) => {
   res.send({ error: false, res: data });
 });
 
-app.get("/email/:data", async (req, res) => {
+app.get("/email/:pw/:data", async (req, res) => {
   let data1 = req.params.data;
+  let pw = req.params.pw;
+  if (!pw) return res.sendStatus(400);
+  if (!pws.includes(pw)) return res.sendStatus(400);
   if (!data1) return res.sendStatus(400);
   let parsed;
   try {
@@ -95,7 +99,6 @@ app.get("/email/:data", async (req, res) => {
   });
 });
 
-let pws = ["Korabi20!", "MiS123!"];
 app.get("/getall/:pw?", limiter, async (req, res) => {
   let pw = req.params.pw;
   if (!pw) return res.sendStatus(400);

@@ -14,10 +14,7 @@
     "city": "Gjilan",
     "email": "starabajaadilon2019@gmail.com",
     "birthday": "22.01.2007",
-    "numbers": [
-      "044575957",
-      "049352152"
-    ],
+    "numbers": ["044575957", "049352152"],
     "parent": "Burim",
     "__v": 0,
     "subclass": "1",
@@ -38,10 +35,7 @@
     "city": "Gjilan",
     "email": "alorinhajredini988@gmail.com",
     "birthday": "04.01.2007",
-    "numbers": [
-      "044193745",
-      "045908289"
-    ],
+    "numbers": ["044193745", "045908289"],
     "__v": 0,
     "parent": "Florim",
     "subclass": "1",
@@ -62,10 +56,7 @@
     "city": "Gjilan",
     "email": "artineselishta1@gmail.com",
     "birthday": "21.04.2007",
-    "numbers": [
-      "044155383",
-      "044358405"
-    ],
+    "numbers": ["044155383", "044358405"],
     "__v": 0,
     "parent": "Nexhat",
     "subclass": "1",
@@ -86,10 +77,7 @@
     "city": "Gjilan",
     "email": "bleonferizaj06@gmail.com",
     "birthday": "26.04.2007",
-    "numbers": [
-      "045575900",
-      "045506174"
-    ],
+    "numbers": ["045575900", "045506174"],
     "__v": 0,
     "parent": "Blerim",
     "subclass": "1",
@@ -109,9 +97,7 @@
     "nationality": "Shqipëtar",
     "city": "Zhegër",
     "birthday": "21.07.2007",
-    "numbers": [
-      "045936297"
-    ],
+    "numbers": ["045936297"],
     "__v": 0,
     "parent": "Ibrahim",
     "subclass": "1",
@@ -132,10 +118,7 @@
     "city": "Gjilan",
     "email": "blinagushaj75@gmail.com",
     "birthday": "17.08.2007",
-    "numbers": [
-      "048302822",
-      "048231097"
-    ],
+    "numbers": ["048302822", "048231097"],
     "__v": 0,
     "parent": "Driton",
     "subclass": "1",
@@ -156,9 +139,7 @@
     "city": "Uglar",
     "email": "donatdauti44@gmail.com",
     "birthday": "13.09.2007",
-    "numbers": [
-      "044670072"
-    ],
+    "numbers": ["044670072"],
     "subclass": "1",
     "parent": "Fitim",
     "__v": 0
@@ -178,9 +159,7 @@
     "city": "Gjilan",
     "email": "egzonspahiu03@gmail.com",
     "birthday": "13.04.2006",
-    "numbers": [
-      "044497074"
-    ],
+    "numbers": ["044497074"],
     "__v": 0,
     "parent": "Ramadan",
     "subclass": "1",
@@ -201,10 +180,7 @@
     "city": "Gjilan",
     "email": "emirh2574@gmail.com",
     "birthday": "18.10.2006",
-    "numbers": [
-      "044751452",
-      "045688471"
-    ],
+    "numbers": ["044751452", "045688471"],
     "__v": 0,
     "parent": "Ragip",
     "subclass": "1",
@@ -225,10 +201,7 @@
     "city": "Gjilan",
     "email": "erblin.dermaku2019@gmail.com",
     "birthday": "04.05.2007",
-    "numbers": [
-      "044711004",
-      "045467718"
-    ],
+    "numbers": ["044711004", "045467718"],
     "parent": "Samet",
     "__v": 0,
     "subclass": "1",
@@ -249,10 +222,7 @@
     "city": "Gjilan",
     "email": "erionmhmm@gmail.com",
     "birthday": "24.01.2007",
-    "numbers": [
-      "044709840",
-      "045373944"
-    ],
+    "numbers": ["044709840", "045373944"],
     "__v": 0,
     "parent": "Halim",
     "subclass": "1",
@@ -273,10 +243,7 @@
     "city": "Gjilan",
     "email": "lindzymberi5@gmail.com",
     "birthday": "08.06.2007",
-    "numbers": [
-      "044287459",
-      "044866156"
-    ],
+    "numbers": ["044287459", "044866156"],
     "__v": 0,
     "parent": "Vaxhid",
     "subclass": "1",
@@ -297,9 +264,7 @@
     "city": "Gjilan",
     "email": "eronibrahimi422@gmail.com",
     "birthday": "10.02.2007",
-    "numbers": [
-      "044770932"
-    ],
+    "numbers": ["044770932"],
     "__v": 0,
     "parent": "Naser",
     "subclass": "1",
@@ -320,10 +285,7 @@
     "city": "Gjilan",
     "email": "korabidev@gmail.com",
     "birthday": "20.12.2007",
-    "numbers": [
-      "049519988",
-      "043981384"
-    ],
+    "numbers": ["049519988", "043981384"],
     "__v": 0,
     "parent": "Musli",
     "subclass": "1",
@@ -344,9 +306,7 @@
     "city": "Velekincë",
     "email": "learthasani4@gmail.com",
     "birthday": "27.05.2007",
-    "numbers": [
-      "044133200"
-    ],
+    "numbers": ["044133200"],
     "__v": 0,
     "parent": "Nexhmedin",
     "subclass": "1",
@@ -367,9 +327,7 @@
     "city": "Gjilan",
     "email": "leonklaiqi255@gmail.com",
     "birthday": "29.11.2006",
-    "numbers": [
-      "045592977"
-    ],
+    "numbers": ["045592977"],
     "__v": 0,
     "parent": "Skender",
     "subclass": "1",
@@ -390,10 +348,7 @@
     "city": "Gjilan",
     "email": "lijana.ahmeti2006@gmail.com",
     "birthday": "21.12.2006",
-    "numbers": [
-      "044710309",
-      "044421606"
-    ],
+    "numbers": ["044710309", "044421606"],
     "__v": 0,
     "parent": "Ridvan",
     "subclass": "1",
@@ -414,10 +369,7 @@
     "city": "Gjilan",
     "email": "lorikrama139@gmail.com",
     "birthday": "25.12.2006",
-    "numbers": [
-      "045238276",
-      "045238276"
-    ],
+    "numbers": ["045238276", "045238276"],
     "__v": 0,
     "parent": "Naim",
     "subclass": "1",
@@ -438,10 +390,7 @@
     "city": "Gjilan",
     "email": "megi.rushiti2007@gmail.com",
     "birthday": "11.10.2007",
-    "numbers": [
-      "044133132",
-      "045221800"
-    ],
+    "numbers": ["044133132", "045221800"],
     "__v": 0,
     "parent": "Ylberi",
     "subclass": "1",
@@ -462,10 +411,7 @@
     "city": "Pogragjë",
     "email": "nazmijanuzi4@gmail.com",
     "birthday": "07.05.2007",
-    "numbers": [
-      "048667114",
-      "045918618"
-    ],
+    "numbers": ["048667114", "045918618"],
     "__v": 0,
     "parent": "Fitim",
     "subclass": "1",
@@ -486,10 +432,7 @@
     "city": "Gjilan",
     "email": "2006olti@gmail.com",
     "birthday": "24.11.2006",
-    "numbers": [
-      "044212026",
-      "049321315"
-    ],
+    "numbers": ["044212026", "049321315"],
     "__v": 0,
     "parent": "Berat",
     "subclass": "1",
@@ -510,10 +453,7 @@
     "city": "Gjilan",
     "email": "rionshabani02@gmail.com",
     "birthday": "06.02.2007",
-    "numbers": [
-      "044380700",
-      "045736726"
-    ],
+    "numbers": ["044380700", "045736726"],
     "__v": 0,
     "parent": "Besnik",
     "subclass": "1",
@@ -534,10 +474,7 @@
     "city": "Gjilan",
     "email": "rolandsherifi2006@gmail.com",
     "birthday": "17.03.2006",
-    "numbers": [
-      "044321621",
-      "044425214"
-    ],
+    "numbers": ["044321621", "044425214"],
     "__v": 0,
     "parent": "Sherif",
     "subclass": "1",
@@ -558,10 +495,7 @@
     "city": "Zhegër",
     "email": "vjola.demiri07@gmail.com",
     "birthday": "28.07.2007",
-    "numbers": [
-      "044510614",
-      "045716572"
-    ],
+    "numbers": ["044510614", "045716572"],
     "__v": 0,
     "parent": "Skender",
     "subclass": "1",
@@ -582,10 +516,7 @@
     "city": "Gjilan",
     "email": "yllibrahimaj@gmail.com",
     "birthday": "16.11.2006",
-    "numbers": [
-      "045678998",
-      "048282806"
-    ],
+    "numbers": ["045678998", "048282806"],
     "__v": 0,
     "parent": "Faik",
     "subclass": "1",
@@ -606,9 +537,7 @@
     "city": "Gjilan",
     "email": "bleonferizaj06@gmail.com",
     "birthday": "01.07.2006",
-    "numbers": [
-      "049746821"
-    ],
+    "numbers": ["049746821"],
     "__v": 0,
     "parent": "Asllan",
     "subclass": "1",
@@ -629,9 +558,7 @@
     "city": "Livoç i ulët",
     "email": "ibrahim.ibrahimiii2007@gmail.com",
     "birthday": "27.08.2007",
-    "numbers": [
-      "045537895"
-    ],
+    "numbers": ["045537895"],
     "__v": 0,
     "parent": "Sadullah",
     "subclass": "1",
@@ -652,10 +579,7 @@
     "city": "Gjilan",
     "email": "halitialejna@gmail.com",
     "birthday": "24.10.2007",
-    "numbers": [
-      "049705511",
-      "045270136"
-    ],
+    "numbers": ["049705511", "045270136"],
     "__v": 0,
     "parent": "Burim",
     "subclass": "2",
@@ -676,10 +600,7 @@
     "city": "Gjilan",
     "email": "sylaandi862@gmail.com",
     "birthday": "22.12.2006",
-    "numbers": [
-      "045850160",
-      "046382385"
-    ],
+    "numbers": ["045850160", "046382385"],
     "__v": 0,
     "parent": "Adnan",
     "subclass": "2",
@@ -700,10 +621,7 @@
     "city": "Kamenicë",
     "email": "ahmetiaron@gmail.com",
     "birthday": "18.10.2006",
-    "numbers": [
-      "049959821",
-      "049959822"
-    ],
+    "numbers": ["049959821", "049959822"],
     "__v": 0,
     "parent": "Mejdi",
     "subclass": "2",
@@ -724,10 +642,7 @@
     "city": "Karaqevë",
     "email": "bardhlenjani@gmail.com",
     "birthday": "10.02.2007",
-    "numbers": [
-      "044154068",
-      "045894385"
-    ],
+    "numbers": ["044154068", "045894385"],
     "__v": 0,
     "parent": "Qerim",
     "subclass": "2",
@@ -748,10 +663,7 @@
     "city": "Gjilan",
     "email": "deniskqiku2@gmail.com",
     "birthday": "02.09.2007",
-    "numbers": [
-      "044212353",
-      "045282603"
-    ],
+    "numbers": ["044212353", "045282603"],
     "__v": 0,
     "parent": "Murtez",
     "subclass": "2",
@@ -771,9 +683,7 @@
     "nationality": "Shqipëtare",
     "city": "Gjilan",
     "birthday": "04.01.2007",
-    "numbers": [
-      "044195686"
-    ],
+    "numbers": ["044195686"],
     "__v": 0,
     "parent": "Florim",
     "subclass": "2",
@@ -794,10 +704,7 @@
     "city": "Karaqevë",
     "email": "erblonifazliu13@gmail.com",
     "birthday": "18.05.2007",
-    "numbers": [
-      "044311979",
-      "044419980"
-    ],
+    "numbers": ["044311979", "044419980"],
     "subclass": "2",
     "parent": "Bashkim",
     "__v": 0
@@ -817,9 +724,7 @@
     "city": "Gjilan",
     "email": "avdylieriol@gmail.com",
     "birthday": "21.07.2005",
-    "numbers": [
-      "044485866"
-    ],
+    "numbers": ["044485866"],
     "__v": 0,
     "parent": "Milaim",
     "subclass": "2",
@@ -840,10 +745,7 @@
     "city": "Gjilan",
     "email": "ertonislami23@gmail.com",
     "birthday": "24.06.2007",
-    "numbers": [
-      "044615727",
-      "045276592"
-    ],
+    "numbers": ["044615727", "045276592"],
     "__v": 0,
     "parent": "Bashkim",
     "subclass": "2",
@@ -864,9 +766,7 @@
     "city": "Gjilan",
     "email": "fidanramushi678@gmail.com",
     "birthday": "30.09.2007",
-    "numbers": [
-      "045437917"
-    ],
+    "numbers": ["045437917"],
     "__v": 0,
     "parent": "Mehmet",
     "subclass": "2",
@@ -887,10 +787,7 @@
     "city": "Gjilan",
     "email": "qerimifllad@gmail.com",
     "birthday": "16.02.2007",
-    "numbers": [
-      "044105659",
-      "044956107"
-    ],
+    "numbers": ["044105659", "044956107"],
     "__v": 0,
     "parent": "Vllaznim",
     "subclass": "2",
@@ -911,10 +808,7 @@
     "city": "Gjilan",
     "email": "gersislami8@gmail.com",
     "birthday": "19.07.2007",
-    "numbers": [
-      "045632667",
-      "045517610"
-    ],
+    "numbers": ["045632667", "045517610"],
     "__v": 0,
     "parent": "Bekim",
     "subclass": "2",
@@ -935,10 +829,7 @@
     "city": "Gjilan",
     "email": "gjergjlatifaj011@gmail.com",
     "birthday": "29.05.2007",
-    "numbers": [
-      "044710596",
-      "045664961"
-    ],
+    "numbers": ["044710596", "045664961"],
     "__v": 0,
     "parent": "Bejto",
     "subclass": "2",
@@ -959,10 +850,7 @@
     "city": "Gjilan",
     "email": "leonardjerliu9@gmail.com",
     "birthday": "01.09.2006",
-    "numbers": [
-      "049480841",
-      "048233260"
-    ],
+    "numbers": ["049480841", "048233260"],
     "subclass": "2",
     "parent": "Remka",
     "__v": 0
@@ -982,10 +870,7 @@
     "city": "Gjilan",
     "email": "lnshkodra623@gmail.com",
     "birthday": "22.03.2007",
-    "numbers": [
-      "044480766",
-      "045237154"
-    ],
+    "numbers": ["044480766", "045237154"],
     "__v": 0,
     "parent": "Asllan",
     "subclass": "2",
@@ -1006,10 +891,7 @@
     "city": "Gjilan",
     "email": "milotma520@gmail.com",
     "birthday": "16.03.2007",
-    "numbers": [
-      "044440570",
-      "045868520"
-    ],
+    "numbers": ["044440570", "045868520"],
     "__v": 0,
     "parent": "Driton",
     "subclass": "2",
@@ -1030,10 +912,7 @@
     "city": "Gjilan",
     "email": "omerazemi100@gmail.com",
     "birthday": "11.06.2006",
-    "numbers": [
-      "045632217",
-      "045857685"
-    ],
+    "numbers": ["045632217", "045857685"],
     "__v": 0,
     "parent": "Alishukri",
     "subclass": "2",
@@ -1054,10 +933,7 @@
     "city": "Gjilan",
     "email": "oltiibrahimi06@gmail.com",
     "birthday": "06.06.2007",
-    "numbers": [
-      "044774767",
-      "044914661"
-    ],
+    "numbers": ["044774767", "044914661"],
     "__v": 0,
     "parent": "Ridvan",
     "subclass": "2",
@@ -1078,10 +954,7 @@
     "city": "Gjilan",
     "email": "rajlindah1@gmail.com",
     "birthday": "12.11.2006",
-    "numbers": [
-      "044302693",
-      "043842064"
-    ],
+    "numbers": ["044302693", "043842064"],
     "__v": 0,
     "parent": "Muhamet",
     "subclass": "2",
@@ -1102,10 +975,7 @@
     "city": "Gjilan",
     "email": "rijonjerliu06@gmail.com",
     "birthday": "08.11.2006",
-    "numbers": [
-      "044865473",
-      "045538537"
-    ],
+    "numbers": ["044865473", "045538537"],
     "__v": 0,
     "parent": "Selman",
     "subclass": "2",
@@ -1126,10 +996,7 @@
     "city": "Gjilan",
     "email": "rinorabdyli136@gmail.com",
     "birthday": "30.06.2006",
-    "numbers": [
-      "044839919",
-      "044467523"
-    ],
+    "numbers": ["044839919", "044467523"],
     "__v": 0,
     "parent": "Bastri",
     "subclass": "2",
@@ -1150,10 +1017,7 @@
     "city": "Gjilan",
     "email": "rinordautti@gmail.com",
     "birthday": "19.08.2006",
-    "numbers": [
-      "048536539",
-      "044416663"
-    ],
+    "numbers": ["048536539", "044416663"],
     "__v": 0,
     "parent": "Rexhep",
     "subclass": "2",
@@ -1174,9 +1038,7 @@
     "city": "Gjilan",
     "email": "osmaniartian@gmail.com",
     "birthday": "28.03.2007",
-    "numbers": [
-      "049877987"
-    ],
+    "numbers": ["049877987"],
     "subclass": "3",
     "__v": 0
   },
@@ -1194,10 +1056,7 @@
     "nationality": "Shqipëtare",
     "city": "Gjilan",
     "birthday": "03.05.2006",
-    "numbers": [
-      "045724913",
-      "045724916"
-    ],
+    "numbers": ["045724913", "045724916"],
     "parent": "Valbona",
     "subclass": "3",
     "__v": 0
@@ -1217,9 +1076,7 @@
     "city": "Gjilan",
     "email": "artor431@gmail.com",
     "birthday": "02.04.2007",
-    "numbers": [
-      "044946889"
-    ],
+    "numbers": ["044946889"],
     "__v": 0,
     "parent": "Xherlil",
     "subclass": "3",
@@ -1239,9 +1096,7 @@
     "nationality": "Shqipëtare",
     "city": "Gjilan",
     "birthday": "09.04.2007",
-    "numbers": [
-      "048196837"
-    ],
+    "numbers": ["048196837"],
     "__v": 0,
     "parent": "Arben",
     "subclass": "3",
@@ -1262,9 +1117,7 @@
     "city": "Gjilan",
     "email": "murteziarbas@gmail.com",
     "birthday": "16.09.2007",
-    "numbers": [
-      "049332060"
-    ],
+    "numbers": ["049332060"],
     "__v": 0,
     "parent": "Aziz",
     "subclass": "3",
@@ -1285,10 +1138,7 @@
     "city": "Gjilan",
     "email": "aridon261@gmail.com",
     "birthday": "23.08.2007",
-    "numbers": [
-      "044419608",
-      "049516992"
-    ],
+    "numbers": ["044419608", "049516992"],
     "__v": 0,
     "parent": "Murat",
     "subclass": "3",
@@ -1309,10 +1159,7 @@
     "city": "Gjilan",
     "email": "dardanberisha783@gmail.com",
     "birthday": "28.02.2007",
-    "numbers": [
-      "044480901",
-      "045934103"
-    ],
+    "numbers": ["044480901", "045934103"],
     "__v": 0,
     "parent": "Limon",
     "subclass": "3",
@@ -1332,9 +1179,7 @@
     "nationality": "Shqipëtar",
     "city": "Gjilan",
     "birthday": "01.05.2007",
-    "numbers": [
-      "044869475"
-    ],
+    "numbers": ["044869475"],
     "__v": 0,
     "parent": "Avdyl",
     "subclass": "3",
@@ -1355,9 +1200,7 @@
     "city": "Gjilan",
     "email": "erionramizikosovo@gmail.com",
     "birthday": "02.08.2007",
-    "numbers": [
-      "045624596"
-    ],
+    "numbers": ["045624596"],
     "subclass": "3",
     "__v": 0
   },
@@ -1376,10 +1219,7 @@
     "city": "Gjilan",
     "email": "ervinekxx@gmail.com",
     "birthday": "11.06.2007",
-    "numbers": [
-      "044298317",
-      "048507772"
-    ],
+    "numbers": ["044298317", "048507772"],
     "__v": 0,
     "parent": "Fidan",
     "subclass": "3",
@@ -1399,9 +1239,7 @@
     "nationality": "Shqipëtar",
     "city": "Gjilan",
     "birthday": "10.07.2006",
-    "numbers": [
-      "044870588"
-    ],
+    "numbers": ["044870588"],
     "__v": 0,
     "parent": "Abedin",
     "subclass": "3",
@@ -1422,9 +1260,7 @@
     "city": "Gjilan",
     "email": "erdimurati45@gmail.com",
     "birthday": "27.10.2007",
-    "numbers": [
-      "045574804"
-    ],
+    "numbers": ["045574804"],
     "__v": 0,
     "parent": "Perparim",
     "subclass": "3",
@@ -1445,10 +1281,7 @@
     "city": "Gjilan",
     "email": "le.avdyli@gmail.com",
     "birthday": "20.05.2007",
-    "numbers": [
-      "049368413",
-      "045204230"
-    ],
+    "numbers": ["049368413", "045204230"],
     "__v": 0,
     "parent": "Selajdin",
     "subclass": "3",
@@ -1469,10 +1302,7 @@
     "city": "Gjilan",
     "email": "omarhoxha.1@icloud.com",
     "birthday": "02.05.2007",
-    "numbers": [
-      "048772619",
-      "045242859"
-    ],
+    "numbers": ["048772619", "045242859"],
     "__v": 0,
     "parent": "Parim",
     "subclass": "3",
@@ -1493,10 +1323,7 @@
     "city": "Gjilan",
     "email": "qendrimbajra12@gmail.com",
     "birthday": "31.08.2007",
-    "numbers": [
-      "044878076",
-      "045991868"
-    ],
+    "numbers": ["044878076", "045991868"],
     "__v": 0,
     "parent": "Bajram",
     "subclass": "3",
@@ -1517,10 +1344,7 @@
     "city": "Gjilan",
     "email": "rionibrahimi2007@gmail.com",
     "birthday": "29.05.2007",
-    "numbers": [
-      "044418176",
-      "045649581"
-    ],
+    "numbers": ["044418176", "045649581"],
     "subclass": "3",
     "__v": 0
   },
@@ -1539,9 +1363,7 @@
     "city": "Gjilan",
     "email": "ramushmarovca15@gmail.com",
     "birthday": "14.07.2007",
-    "numbers": [
-      "044342604"
-    ],
+    "numbers": ["044342604"],
     "__v": 0,
     "parent": "Zjadin",
     "subclass": "3",
@@ -1562,10 +1384,7 @@
     "city": "Gjilan",
     "email": "dxheladini13@gmail.com",
     "birthday": "19.09.2007",
-    "numbers": [
-      "044436064",
-      "044579010"
-    ],
+    "numbers": ["044436064", "044579010"],
     "__v": 0,
     "parent": "Adnan",
     "subclass": "3",
@@ -1586,10 +1405,7 @@
     "city": "Gjilan",
     "email": "urimbajrami19@gmail.com",
     "birthday": "01.06.2007",
-    "numbers": [
-      "045457008",
-      "045312935"
-    ],
+    "numbers": ["045457008", "045312935"],
     "__v": 0,
     "parent": "Lirim",
     "subclass": "3",
@@ -1610,10 +1426,7 @@
     "city": "Malishevë",
     "email": "albionmustafa040@gmail.com",
     "birthday": "16.07.2007",
-    "numbers": [
-      "044144034",
-      "045753401"
-    ],
+    "numbers": ["044144034", "045753401"],
     "__v": 0,
     "parent": "Kadri",
     "subclass": "4",
@@ -1633,9 +1446,7 @@
     "nationality": "Shqipëtar",
     "city": "Pidiç",
     "birthday": "22.08.2007",
-    "numbers": [
-      "044155189"
-    ],
+    "numbers": ["044155189"],
     "__v": 0,
     "parent": "Hysen",
     "subclass": "4",
@@ -1655,9 +1466,7 @@
     "nationality": "Shqipëtar",
     "city": "Gjilan",
     "birthday": "08.12.2006",
-    "numbers": [
-      "044357455"
-    ],
+    "numbers": ["044357455"],
     "__v": 0,
     "parent": "Ramadan",
     "subclass": "4",
@@ -1677,10 +1486,7 @@
     "nationality": "Shqipëtar",
     "city": "Gjilan",
     "birthday": "30.03.2006",
-    "numbers": [
-      "044679397",
-      "045247717"
-    ],
+    "numbers": ["044679397", "045247717"],
     "parent": "Fitim",
     "subclass": "4",
     "__v": 0
@@ -1700,10 +1506,7 @@
     "city": "Zhegër",
     "email": "donatismaili06@gmail.com",
     "birthday": "24.06.2007",
-    "numbers": [
-      "044285085",
-      "045256098"
-    ],
+    "numbers": ["044285085", "045256098"],
     "__v": 0,
     "parent": "Bislim",
     "subclass": "4",
@@ -1724,10 +1527,7 @@
     "city": "Llashticë",
     "email": "demirrexhepi@gmail.com",
     "birthday": "27.03.2007",
-    "numbers": [
-      "044204120",
-      "044264120"
-    ],
+    "numbers": ["044204120", "044264120"],
     "__v": 0,
     "parent": "Fadil",
     "subclass": "4",
@@ -1748,10 +1548,7 @@
     "city": "Pogragjë",
     "email": "etijonetijon3@gmail.com",
     "birthday": "01.01.2008",
-    "numbers": [
-      "044311952",
-      "044339472"
-    ],
+    "numbers": ["044311952", "044339472"],
     "__v": 0,
     "parent": "Astrit",
     "subclass": "4",
@@ -1771,9 +1568,7 @@
     "nationality": "Shqipëtar",
     "city": "Zhegër",
     "birthday": "03.12.2007",
-    "numbers": [
-      "044873189"
-    ],
+    "numbers": ["044873189"],
     "__v": 0,
     "parent": "Naser",
     "subclass": "4",
@@ -1793,9 +1588,7 @@
     "nationality": "Shqipëtar",
     "city": "Livoç i epërm",
     "birthday": "20.07.2007",
-    "numbers": [
-      "044403548"
-    ],
+    "numbers": ["044403548"],
     "__v": 0,
     "parent": "Skender",
     "subclass": "4",
@@ -1816,10 +1609,7 @@
     "city": "Cërnicë",
     "email": "endrit.bajrami2005@gmail.com",
     "birthday": "04.12.2005",
-    "numbers": [
-      "045307191",
-      "044209843"
-    ],
+    "numbers": ["045307191", "044209843"],
     "__v": 0,
     "parent": "Selman",
     "subclass": "4",
@@ -1839,9 +1629,7 @@
     "nationality": "Shqipëtar",
     "city": "Shillovë",
     "birthday": "18.09.2006",
-    "numbers": [
-      "045323678"
-    ],
+    "numbers": ["045323678"],
     "__v": 0,
     "parent": "Arben",
     "subclass": "4",
@@ -1861,9 +1649,7 @@
     "nationality": "Shqipëtar",
     "city": "Gjilan",
     "birthday": "07.02.2007",
-    "numbers": [
-      "044652851"
-    ],
+    "numbers": ["044652851"],
     "__v": 0,
     "parent": "Blerim",
     "subclass": "4",
@@ -1883,9 +1669,7 @@
     "nationality": "Shqipëtar",
     "city": "Uglar",
     "birthday": "14.08.2007",
-    "numbers": [
-      "044876968"
-    ],
+    "numbers": ["044876968"],
     "__v": 0,
     "parent": "Rexhep",
     "subclass": "4",
@@ -1905,9 +1689,7 @@
     "nationality": "Shqipëtar",
     "city": "Gjilan",
     "birthday": "28.06.2007",
-    "numbers": [
-      "045274536"
-    ],
+    "numbers": ["045274536"],
     "__v": 0,
     "parent": "Vegim",
     "subclass": "4",
@@ -1927,9 +1709,7 @@
     "nationality": "Shqipëtar",
     "city": "Uglar",
     "birthday": "08.05.2207",
-    "numbers": [
-      "044397427"
-    ],
+    "numbers": ["044397427"],
     "__v": 0,
     "parent": "Runit",
     "subclass": "4",
@@ -1949,9 +1729,7 @@
     "nationality": "Shqipëtar",
     "city": "Gjilan",
     "birthday": "29.08.2007",
-    "numbers": [
-      "044397436"
-    ],
+    "numbers": ["044397436"],
     "__v": 0,
     "parent": "Islam",
     "subclass": "4",
@@ -1972,10 +1750,7 @@
     "city": "Brus",
     "email": "arianit.g077@gmail.com",
     "birthday": "03.12.2007",
-    "numbers": [
-      "044783863",
-      "045475036"
-    ],
+    "numbers": ["044783863", "045475036"],
     "__v": 0,
     "parent": "Pjeter",
     "subclass": "5",
@@ -1996,9 +1771,7 @@
     "city": "Bilinicë",
     "email": "alban.ramadani2@gmail.com",
     "birthday": "01.01.2008",
-    "numbers": [
-      "045659276"
-    ],
+    "numbers": ["045659276"],
     "__v": 0,
     "parent": "Bexhet",
     "subclass": "5",
@@ -2018,9 +1791,7 @@
     "nationality": "Shqipëtar",
     "city": "Gjilan",
     "birthday": "12.04.2007",
-    "numbers": [
-      "044322097"
-    ],
+    "numbers": ["044322097"],
     "__v": 0,
     "parent": "Shaban",
     "subclass": "5",
@@ -2040,10 +1811,7 @@
     "nationality": "Shqipëtar",
     "city": "Gjilan",
     "birthday": "02.11.2006",
-    "numbers": [
-      "044205764",
-      "044351664"
-    ],
+    "numbers": ["044205764", "044351664"],
     "__v": 0,
     "parent": "Enver",
     "subclass": "5",
@@ -2063,9 +1831,7 @@
     "nationality": "Shqipëtar",
     "city": "Gjilan",
     "birthday": "01.05.2006",
-    "numbers": [
-      "045634657"
-    ],
+    "numbers": ["045634657"],
     "__v": 0,
     "parent": "Halim",
     "subclass": "5",
@@ -2085,10 +1851,7 @@
     "nationality": "Shqipëtar",
     "city": "Budrikë",
     "birthday": "08.03.2007",
-    "numbers": [
-      "048707429",
-      "049705553"
-    ],
+    "numbers": ["048707429", "049705553"],
     "__v": 0,
     "parent": "Faredin",
     "subclass": "5",
@@ -2108,10 +1871,7 @@
     "nationality": "Shqipëtar",
     "city": "Gjilan",
     "birthday": "18.08.2006",
-    "numbers": [
-      "044692823",
-      "045800943"
-    ],
+    "numbers": ["044692823", "045800943"],
     "__v": 0,
     "parent": "Bajram",
     "subclass": "5",
@@ -2132,10 +1892,7 @@
     "city": "Gjilan",
     "email": "shpetimmorina13@gmail.com",
     "birthday": "20.04.2007",
-    "numbers": [
-      "045967366",
-      "045906314"
-    ],
+    "numbers": ["045967366", "045906314"],
     "parent": "Naser",
     "subclass": "5",
     "__v": 0
@@ -2154,10 +1911,7 @@
     "nationality": "Shqipëtar",
     "city": "Velekincë",
     "birthday": "10.05.2007",
-    "numbers": [
-      "044703928",
-      "044261737"
-    ],
+    "numbers": ["044703928", "044261737"],
     "__v": 0,
     "parent": "Tahit",
     "subclass": "5",
@@ -2197,10 +1951,7 @@
     "nationality": "Shqipëtar",
     "city": "Gjilan",
     "birthday": "20.07.2007",
-    "numbers": [
-      "044792740",
-      "046146003"
-    ],
+    "numbers": ["044792740", "046146003"],
     "__v": 0,
     "parent": "Emin",
     "subclass": "5",
@@ -2240,9 +1991,7 @@
     "nationality": "Shqipëtar",
     "city": "Gumnishtë",
     "birthday": "11.09.2007",
-    "numbers": [
-      "044478583"
-    ],
+    "numbers": ["044478583"],
     "parent": "Avni",
     "__v": 0,
     "subclass": "5",
@@ -2262,9 +2011,7 @@
     "nationality": "Shqipëtar",
     "city": "Sllakovc",
     "birthday": "30.07.2006",
-    "numbers": [
-      "044843424"
-    ],
+    "numbers": ["044843424"],
     "parent": "Avni",
     "subclass": "5",
     "__v": 0
@@ -2283,10 +2030,7 @@
     "nationality": "Shqipëtar",
     "city": "Gjilan",
     "birthday": "02.07.2007",
-    "numbers": [
-      "044643299",
-      "045912527"
-    ],
+    "numbers": ["044643299", "045912527"],
     "parent": "Halit",
     "subclass": "5",
     "__v": 0
@@ -2306,10 +2050,7 @@
     "city": "Malishevë",
     "email": "agnesahashani21@gmail.com",
     "birthday": "07.03.2008",
-    "numbers": [
-      "044576133",
-      "048285548"
-    ],
+    "numbers": ["044576133", "048285548"],
     "__v": 0,
     "parent": "Fatmir",
     "subclass": "6",
@@ -2329,9 +2070,7 @@
     "nationality": "Shqipëtare",
     "city": "Gjilan",
     "birthday": "18.09.2006",
-    "numbers": [
-      "044674316"
-    ],
+    "numbers": ["044674316"],
     "__v": 0,
     "parent": "Rifat",
     "subclass": "6",
@@ -2352,10 +2091,7 @@
     "city": "Përlepnicë",
     "email": "avdyl.b.bajrami@gmail.com",
     "birthday": "25.08.2007",
-    "numbers": [
-      "044144940",
-      "044980056"
-    ],
+    "numbers": ["044144940", "044980056"],
     "__v": 0,
     "parent": "Bardhyl",
     "subclass": "6",
@@ -2376,10 +2112,7 @@
     "city": "Gjilan",
     "email": "dionisjakupii1@gmail.com",
     "birthday": "10.12.2006",
-    "numbers": [
-      "049212313",
-      "048550737"
-    ],
+    "numbers": ["049212313", "048550737"],
     "parent": "Nexhat",
     "__v": 0,
     "subclass": "6",
@@ -2400,10 +2133,7 @@
     "city": "Zhegër",
     "email": "hysendonat00@gmail.com",
     "birthday": "15.05.2007",
-    "numbers": [
-      "045500109",
-      "045467117"
-    ],
+    "numbers": ["045500109", "045467117"],
     "__v": 0,
     "parent": "Elbasan",
     "subclass": "6",
@@ -2424,9 +2154,7 @@
     "city": "Kamenicë - Dazhdincë",
     "email": "elmedinajerliu16@gmail.com",
     "birthday": "07.06.2006",
-    "numbers": [
-      "044603184"
-    ],
+    "numbers": ["044603184"],
     "__v": 0,
     "parent": "Selim",
     "subclass": "6",
@@ -2447,10 +2175,7 @@
     "city": "Gjilan",
     "email": "enesamiftari45@gmail.com",
     "birthday": "20.08.2007",
-    "numbers": [
-      "044828308",
-      "045282638"
-    ],
+    "numbers": ["044828308", "045282638"],
     "__v": 0,
     "parent": "Fitim",
     "subclass": "6",
@@ -2471,10 +2196,7 @@
     "city": "Zhegër",
     "email": "erhanbislimi796@gmail.com",
     "birthday": "15.09.2007",
-    "numbers": [
-      "044235274",
-      "045803290"
-    ],
+    "numbers": ["044235274", "045803290"],
     "__v": 0,
     "parent": "Avni",
     "subclass": "6",
@@ -2495,10 +2217,7 @@
     "city": "Gjilan",
     "email": "erinymeri07@gmail.com",
     "birthday": "01.01.2007",
-    "numbers": [
-      "044467100",
-      "045415959"
-    ],
+    "numbers": ["044467100", "045415959"],
     "__v": 0,
     "parent": "Betim",
     "subclass": "6",
@@ -2519,10 +2238,7 @@
     "city": "Gjilan",
     "email": "emiftari985@gmail.com",
     "birthday": "16.03.2007",
-    "numbers": [
-      "044615457",
-      "044615457"
-    ],
+    "numbers": ["044615457", "044615457"],
     "__v": 0,
     "parent": "Blerim",
     "subclass": "6",
@@ -2543,10 +2259,7 @@
     "city": "Gjilan",
     "email": "oltihaliti05@gmail.com",
     "birthday": "25.11.2006",
-    "numbers": [
-      "044133476",
-      "045467911"
-    ],
+    "numbers": ["044133476", "045467911"],
     "__v": 0,
     "parent": "Fadil",
     "subclass": "6",
@@ -2566,9 +2279,7 @@
     "nationality": "Shqipëtar",
     "city": "Gjilan",
     "birthday": "21.09.2007",
-    "numbers": [
-      "045677477"
-    ],
+    "numbers": ["045677477"],
     "__v": 0,
     "parent": "Agim",
     "subclass": "6",
@@ -2589,10 +2300,7 @@
     "city": "Gjilan",
     "email": "ornelabajrami318@gmail.com",
     "birthday": "28.02.2007",
-    "numbers": [
-      "044302687",
-      "046185020"
-    ],
+    "numbers": ["044302687", "046185020"],
     "__v": 0,
     "parent": "Florim",
     "subclass": "6",
@@ -2613,10 +2321,7 @@
     "city": "Përlepnicë",
     "email": "suejd.aliu11@gmail.com",
     "birthday": "20.03.2007",
-    "numbers": [
-      "044528577",
-      "049473207"
-    ],
+    "numbers": ["044528577", "049473207"],
     "__v": 0,
     "parent": "Ilir",
     "subclass": "6",
@@ -2637,10 +2342,7 @@
     "city": "Gjilan",
     "email": "triumfcuci2006@gmail.com",
     "birthday": "25.12.2006",
-    "numbers": [
-      "044144972",
-      "045818177"
-    ],
+    "numbers": ["044144972", "045818177"],
     "__v": 0,
     "parent": "Besim",
     "subclass": "6",
@@ -2661,10 +2363,7 @@
     "city": "Malishevë",
     "email": "vanessahashanii@gmail.com",
     "birthday": "30.09.2006",
-    "numbers": [
-      "044576133",
-      "048655058"
-    ],
+    "numbers": ["044576133", "048655058"],
     "__v": 0,
     "parent": "Fatmir",
     "subclass": "6",
@@ -2685,10 +2384,7 @@
     "city": "Shipashnicë - Kamenicë",
     "email": "venisdermaku11@gmail.com",
     "birthday": "11.09.2006",
-    "numbers": [
-      "044361817",
-      "045846646"
-    ],
+    "numbers": ["044361817", "045846646"],
     "parent": "Kudret",
     "__v": 0,
     "subclass": "6",
@@ -2709,9 +2405,7 @@
     "city": "Livoq i epërm",
     "email": "beqirialbi57@gmail.com",
     "birthday": "25.01.2007",
-    "numbers": [
-      "044357501"
-    ],
+    "numbers": ["044357501"],
     "__v": 0,
     "subclass": "7",
     "parent": "Mejdi"
@@ -2730,9 +2424,7 @@
     "nationality": "Shqipëtar",
     "city": "Livoq i epërm",
     "birthday": "12.01.2007",
-    "numbers": [
-      "044342685"
-    ],
+    "numbers": ["044342685"],
     "__v": 0,
     "parent": "Tefik",
     "subclass": "7",
@@ -2752,9 +2444,7 @@
     "nationality": "Shqipëtar",
     "city": "Llashticë",
     "birthday": "17.07.2007",
-    "numbers": [
-      "044628896"
-    ],
+    "numbers": ["044628896"],
     "__v": 0,
     "subclass": "7",
     "parent": "Azem"
@@ -2774,9 +2464,7 @@
     "city": "Kufcë e epërme",
     "email": "erion.ramadani06@gmail.com",
     "birthday": "28.03.2007",
-    "numbers": [
-      "048313212"
-    ],
+    "numbers": ["048313212"],
     "__v": 0,
     "subclass": "7",
     "parent": "Sefer"
@@ -2796,10 +2484,7 @@
     "city": "Malishevë e poshtme",
     "email": "shabanierion608@gmail.com",
     "birthday": "05.05.2007",
-    "numbers": [
-      "044739521",
-      "048485645"
-    ],
+    "numbers": ["044739521", "048485645"],
     "__v": 0,
     "parent": "Ali",
     "subclass": "7",
@@ -2819,10 +2504,7 @@
     "nationality": "Shqipëtar",
     "city": "Velekincë",
     "birthday": "31.08.2006",
-    "numbers": [
-      "044873512",
-      "045282771"
-    ],
+    "numbers": ["044873512", "045282771"],
     "__v": 0,
     "parent": "Feriz",
     "subclass": "7",
@@ -2842,9 +2524,7 @@
     "nationality": "Shqipëtar",
     "city": "Gumnishtë",
     "birthday": "15.03.2006",
-    "numbers": [
-      "044396814"
-    ],
+    "numbers": ["044396814"],
     "__v": 0,
     "parent": "Rexhep",
     "subclass": "7",
@@ -2864,14 +2544,10 @@
     "nationality": "Shqipëtar",
     "city": "Gumnishtë",
     "birthday": "21.06.2007",
-    "numbers": [
-      "044470904",
-      "045551396"
-    ],
+    "numbers": ["044470904", "045551396"],
     "__v": 0,
     "subclass": "7",
     "parent": "Rmadan"
-    
   },
   {
     "_id": "65033d065a7ea4c6e5ecfd30",
@@ -2888,10 +2564,7 @@
     "city": "Gjilan",
     "email": "diardbaba2318@gmail.com",
     "birthday": "25.10.2006",
-    "numbers": [
-      "044321952",
-      "044837244"
-    ],
+    "numbers": ["044321952", "044837244"],
     "__v": 0,
     "subclass": "7",
     "parent": "Lumni"
@@ -2911,10 +2584,7 @@
     "city": "Lladovë",
     "email": "lorenthafizi@gmail.com",
     "birthday": "07.08.2007",
-    "numbers": [
-      "044460852",
-      "043820179"
-    ],
+    "numbers": ["044460852", "043820179"],
     "__v": 0,
     "subclass": "7",
     "parent": "Selver"
@@ -2933,10 +2603,7 @@
     "nationality": "Shqipëtar",
     "city": "Livoq i epërm",
     "birthday": "20.06.2007",
-    "numbers": [
-      "044696927",
-      "045736446"
-    ],
+    "numbers": ["044696927", "045736446"],
     "__v": 0,
     "subclass": "7",
     "parent": "Fatmir "
@@ -2956,9 +2623,7 @@
     "city": "Gjilan",
     "email": "almedin.bajrami1@gmail.com",
     "birthday": "11.11.2006",
-    "numbers": [
-      "044873212"
-    ],
+    "numbers": ["044873212"],
     "__v": 0,
     "parent": "Abedin",
     "subclass": "8",
@@ -2979,9 +2644,7 @@
     "city": "Malishevë",
     "email": "diartmaliqi@gmail.com",
     "birthday": "17.12.2006",
-    "numbers": [
-      "044280314"
-    ],
+    "numbers": ["044280314"],
     "__v": 0,
     "subclass": "8",
     "parent": "Besnik"
@@ -3001,9 +2664,7 @@
     "city": "Gjilan",
     "email": "edisyla120@gmail.com",
     "birthday": "05.06.2007",
-    "numbers": [
-      "044212182"
-    ],
+    "numbers": ["044212182"],
     "__v": 0,
     "parent": "Sahit",
     "subclass": "8",
@@ -3024,10 +2685,7 @@
     "city": "Llashticë",
     "email": "eldisejfiu@gmail.com",
     "birthday": "01.04.2007",
-    "numbers": [
-      "045432596",
-      "045755631"
-    ],
+    "numbers": ["045432596", "045755631"],
     "parent": "Feriz",
     "__v": 0,
     "subclass": "8",
@@ -3047,10 +2705,7 @@
     "nationality": "Shqipëtar",
     "city": "Gjilan",
     "birthday": "07.04.2007",
-    "numbers": [
-      "045374810",
-      "045736160"
-    ],
+    "numbers": ["045374810", "045736160"],
     "__v": 0,
     "parent": "Luan",
     "subclass": "8",
@@ -3070,9 +2725,7 @@
     "nationality": "Shqipëtar",
     "city": "Gjilan",
     "birthday": "23.06.2007",
-    "numbers": [
-      "044693179"
-    ],
+    "numbers": ["044693179"],
     "__v": 0,
     "parent": "Rrustem",
     "subclass": "8",
@@ -3093,9 +2746,7 @@
     "city": "Gjilan",
     "email": "erdonabdullahi7@gmail.com",
     "birthday": "13.06.2007",
-    "numbers": [
-      "044320934"
-    ],
+    "numbers": ["044320934"],
     "parent": "Xhavit",
     "__v": 0,
     "subclass": "8",
@@ -3116,10 +2767,7 @@
     "city": "Gjilan",
     "email": "ffatjon52@gmail.com",
     "birthday": "08.05.2007",
-    "numbers": [
-      "044280657",
-      "044950696"
-    ],
+    "numbers": ["044280657", "044950696"],
     "__v": 0,
     "subclass": "8",
     "parent": "Mejdi"
@@ -3139,10 +2787,7 @@
     "city": "Livoç i ulët",
     "email": "oltionaliu437@gmail.com",
     "birthday": "22.08.2007",
-    "numbers": [
-      "044759832",
-      "045602607"
-    ],
+    "numbers": ["044759832", "045602607"],
     "parent": "Driton",
     "subclass": "8",
     "__v": 0
@@ -3162,10 +2807,7 @@
     "city": "Livoç i ulët",
     "email": "shyqerikurteshi09@gmail.com",
     "birthday": "30.06.2007",
-    "numbers": [
-      "044291955",
-      "049460779"
-    ],
+    "numbers": ["044291955", "049460779"],
     "__v": 0,
     "parent": "Ruzhdi",
     "subclass": "8",
@@ -3186,10 +2828,7 @@
     "city": "Gjilan",
     "email": "yllikrasniqi1312@gmail.com",
     "birthday": "13.12.2007",
-    "numbers": [
-      "044137373",
-      "048572826"
-    ],
+    "numbers": ["044137373", "048572826"],
     "parent": "Hajrush",
     "subclass": "8",
     "__v": 0
@@ -3208,9 +2847,7 @@
     "nationality": "Shqipëtar",
     "city": "Gjilan",
     "birthday": "22.07.2007",
-    "numbers": [
-      "044771014"
-    ],
+    "numbers": ["044771014"],
     "__v": 0,
     "parent": "Kadri",
     "subclass": "4",
@@ -3231,9 +2868,7 @@
     "city": "Miresh - Dobërçan",
     "email": "andiqerimi@gmail.com",
     "birthday": "24.04.2007",
-    "numbers": [
-      "049926831"
-    ],
+    "numbers": ["049926831"],
     "__v": 0,
     "parent": "Agim",
     "subclass": "9",
@@ -3254,9 +2889,7 @@
     "city": "Gjilan",
     "email": "blendmaloku@gmail.com",
     "birthday": "07.04.2007",
-    "numbers": [
-      "044851551"
-    ],
+    "numbers": ["044851551"],
     "__v": 0,
     "parent": "Agim",
     "subclass": "9",
@@ -3277,9 +2910,7 @@
     "city": "Rogoçicë",
     "email": "drilonqehaja@gmail.com",
     "birthday": "31.08.2007",
-    "numbers": [
-      "045595808"
-    ],
+    "numbers": ["045595808"],
     "__v": 0,
     "parent": "Skender",
     "subclass": "9",
@@ -3300,9 +2931,7 @@
     "city": "Gjilan",
     "email": "luanrashiti@gmail.com",
     "birthday": "07.07.2006",
-    "numbers": [
-      "044923680"
-    ],
+    "numbers": ["044923680"],
     "__v": 0,
     "parent": "Besnik",
     "subclass": "9",
@@ -3323,9 +2952,7 @@
     "city": "Bresalc",
     "email": "mendushsyla@gmail.com",
     "birthday": "06.06.2006",
-    "numbers": [
-      "049818250"
-    ],
+    "numbers": ["049818250"],
     "__v": 0,
     "parent": "Ruzhdi",
     "subclass": "9",
@@ -3346,9 +2973,7 @@
     "city": "Livoç i epërm",
     "email": "mirlindhajdini@gmail.com",
     "birthday": "24.03.2007",
-    "numbers": [
-      "045389872"
-    ],
+    "numbers": ["045389872"],
     "__v": 0,
     "parent": "Afrim",
     "subclass": "9",
@@ -3369,9 +2994,7 @@
     "city": "Livoç i epërm",
     "email": "shkodranmusliu@gmail.com",
     "birthday": "08.05.2007",
-    "numbers": [
-      "045250685"
-    ],
+    "numbers": ["045250685"],
     "__v": 0,
     "parent": "Bashkim",
     "subclass": "9",
@@ -3392,9 +3015,7 @@
     "city": "Gjilan",
     "email": "suedaismaili@gmail.com",
     "birthday": "01.05.2007",
-    "numbers": [
-      "045687716"
-    ],
+    "numbers": ["045687716"],
     "__v": 0,
     "parent": "Ahmet",
     "subclass": "9",
@@ -3415,9 +3036,7 @@
     "city": "Gjilan",
     "email": "fatlindzymberi@gmail.com",
     "birthday": "26.02.2007",
-    "numbers": [
-      "044357532"
-    ],
+    "numbers": ["044357532"],
     "subclass": "9",
     "__v": 0
   },
@@ -3436,9 +3055,7 @@
     "city": "Velekincë",
     "email": "drilondushica@gmail.com",
     "birthday": "17.06.2006",
-    "numbers": [
-      "044283786"
-    ],
+    "numbers": ["044283786"],
     "__v": 0,
     "parent": "Nazim",
     "subclass": "9",
@@ -3459,9 +3076,7 @@
     "city": "Ponesh",
     "email": "shalaarbenita32@gmail.com",
     "birthday": "09.11.2006",
-    "numbers": [
-      "044369185"
-    ],
+    "numbers": ["044369185"],
     "__v": 0,
     "parent": "Islam",
     "subclass": "10",
@@ -3482,9 +3097,7 @@
     "city": "Gjilan",
     "email": "arditaspahija@gkiil.com",
     "birthday": "28.03.2007",
-    "numbers": [
-      "044114829"
-    ],
+    "numbers": ["044114829"],
     "__v": 0,
     "parent": "Fehmi",
     "subclass": "10",
@@ -3505,9 +3118,7 @@
     "city": "Gjilan",
     "email": "bleonaselimi@gkiil.com",
     "birthday": "13.11.2006",
-    "numbers": [
-      "045464127"
-    ],
+    "numbers": ["045464127"],
     "__v": 0,
     "parent": "Elsadat",
     "subclass": "10",
@@ -3528,9 +3139,7 @@
     "city": "Gjilan",
     "email": "dafinamushica@gkiil.com",
     "birthday": "10.02.2007",
-    "numbers": [
-      "045557994"
-    ],
+    "numbers": ["045557994"],
     "__v": 0,
     "parent": "Fatmir",
     "subclass": "10",
@@ -3572,10 +3181,7 @@
     "city": "Velekincë",
     "email": "erionabunjaku06@gmail.com",
     "birthday": "10.08.2007",
-    "numbers": [
-      "044828247",
-      "044950573"
-    ],
+    "numbers": ["044828247", "044950573"],
     "parent": "Xhemail",
     "subclass": "10",
     "__v": 0
@@ -3595,9 +3201,7 @@
     "city": "Gjilan",
     "email": "fitorekastrati@gkiil.com",
     "birthday": "02.02.2007",
-    "numbers": [
-      "045351957"
-    ],
+    "numbers": ["045351957"],
     "__v": 0,
     "parent": "Besim",
     "subclass": "10",
@@ -3618,9 +3222,7 @@
     "city": "Gjilan",
     "email": "florentinakurtalani@gkiil.com",
     "birthday": "14.05.2007",
-    "numbers": [
-      "044782046"
-    ],
+    "numbers": ["044782046"],
     "__v": 0,
     "parent": "Zihadin",
     "subclass": "10",
@@ -3641,9 +3243,7 @@
     "city": "Ponesh",
     "email": "shalagentiana53@gmail.com",
     "birthday": "09.11.2006",
-    "numbers": [
-      "044767567"
-    ],
+    "numbers": ["044767567"],
     "__v": 0,
     "parent": "Islam",
     "subclass": "10",
@@ -3664,9 +3264,7 @@
     "city": "Gjilan",
     "email": "andiibrahimi220@gmail.com",
     "birthday": "26.12.2005",
-    "numbers": [
-      "045904683"
-    ],
+    "numbers": ["045904683"],
     "__v": 0,
     "parent": "Musli",
     "subclass": "1",
@@ -3687,9 +3285,7 @@
     "city": "Gjilan",
     "email": "arbisiajeti@gmail.com",
     "birthday": "28.01.2006",
-    "numbers": [
-      "046188181"
-    ],
+    "numbers": ["046188181"],
     "__v": 0,
     "parent": "Sejdi",
     "subclass": "1",
@@ -3710,9 +3306,7 @@
     "city": "Gjilan",
     "email": "aris.haliti97@gmail.com",
     "birthday": "25.10.2006",
-    "numbers": [
-      "049164809"
-    ],
+    "numbers": ["049164809"],
     "__v": 0,
     "parent": "Ganimete",
     "subclass": "1",
@@ -3733,9 +3327,7 @@
     "city": "Gjilan",
     "email": "artinbajrami2006@gmail.com",
     "birthday": "13.03.2006",
-    "numbers": [
-      "049163919"
-    ],
+    "numbers": ["049163919"],
     "__v": 0,
     "parent": "Skender",
     "subclass": "1",
@@ -3756,9 +3348,7 @@
     "city": "Gjilan",
     "email": "bledarsherifi6@gmail.com",
     "birthday": "21.07.2006",
-    "numbers": [
-      "046353500"
-    ],
+    "numbers": ["046353500"],
     "__v": 0,
     "parent": "Arianit",
     "subclass": "1",
@@ -3779,9 +3369,7 @@
     "city": "Gjilan",
     "email": "ahmetit14@gmail.com",
     "birthday": "04.04.2006",
-    "numbers": [
-      "044396706"
-    ],
+    "numbers": ["044396706"],
     "__v": 0,
     "parent": "Isa",
     "subclass": "1",
@@ -3802,9 +3390,7 @@
     "city": "Gjilan",
     "email": "editoska.et@gmail.com",
     "birthday": "02.04.2006",
-    "numbers": [
-      "049250279"
-    ],
+    "numbers": ["049250279"],
     "__v": 0,
     "parent": "Burim",
     "subclass": "1",
@@ -3825,9 +3411,7 @@
     "city": "Gjilan",
     "email": "edonisbllaca1@gmail.com",
     "birthday": "16.06.2006",
-    "numbers": [
-      "045206432"
-    ],
+    "numbers": ["045206432"],
     "__v": 0,
     "parent": "Refik",
     "subclass": "1",
@@ -3848,9 +3432,7 @@
     "city": "Gjilan",
     "email": "engjelljashari500@gmail.com",
     "birthday": "28.03.2006",
-    "numbers": [
-      "045437680"
-    ],
+    "numbers": ["045437680"],
     "parent": "Sabri",
     "subclass": "1",
     "__v": 0
@@ -3870,9 +3452,7 @@
     "city": "Gjilan",
     "email": "bajramierit15@gmail.com",
     "birthday": "27.12.2005",
-    "numbers": [
-      "046179061"
-    ],
+    "numbers": ["046179061"],
     "__v": 0,
     "parent": "Nexhat",
     "subclass": "1",
@@ -3893,9 +3473,7 @@
     "city": "Gjilan",
     "email": "getorana@gmail.com",
     "birthday": "23.09.2006",
-    "numbers": [
-      "045602694"
-    ],
+    "numbers": ["045602694"],
     "parent": "Elmaz",
     "subclass": "1",
     "__v": 0
@@ -3915,9 +3493,7 @@
     "city": "Gjilan",
     "email": "leonagaj06@gmail.com",
     "birthday": "25.11.2005",
-    "numbers": [
-      "045461021"
-    ],
+    "numbers": ["045461021"],
     "__v": 0,
     "parent": "Fatlum",
     "subclass": "1",
@@ -3938,9 +3514,7 @@
     "city": "Gjilan",
     "email": "lorik.rexhepi595@gmail.com",
     "birthday": "19.08.2006",
-    "numbers": [
-      "045266589"
-    ],
+    "numbers": ["045266589"],
     "__v": 0,
     "parent": "Bujar",
     "subclass": "1",
@@ -3961,9 +3535,7 @@
     "city": "Gjilan",
     "email": "omaraliu502@gmail.com",
     "birthday": "06.05.2006",
-    "numbers": [
-      "045474680"
-    ],
+    "numbers": ["045474680"],
     "__v": 0,
     "parent": "Shpend",
     "subclass": "1",
@@ -3984,9 +3556,7 @@
     "city": "Gjilan",
     "email": "orges2108@gmail.com",
     "birthday": "21.08.2006",
-    "numbers": [
-      "045979130"
-    ],
+    "numbers": ["045979130"],
     "__v": 0,
     "parent": "Avni",
     "subclass": "1",
@@ -4007,9 +3577,7 @@
     "city": "Gjilan",
     "email": "reshatomer123@gmail.com",
     "birthday": "26..05.2006",
-    "numbers": [
-      "044376954"
-    ],
+    "numbers": ["044376954"],
     "__v": 0,
     "parent": "Nagip",
     "subclass": "1",
@@ -4029,9 +3597,7 @@
     "nationality": "Shqipëtar",
     "city": "Gjilan",
     "birthday": "28.12.2005",
-    "numbers": [
-      "044844197"
-    ],
+    "numbers": ["044844197"],
     "__v": 0,
     "parent": "Selami",
     "subclass": "1",
@@ -4051,9 +3617,7 @@
     "nationality": "Shqipëtar",
     "city": "Gjilan",
     "birthday": "13.02.2006",
-    "numbers": [
-      "044575933"
-    ],
+    "numbers": ["044575933"],
     "__v": 0,
     "parent": "Agim",
     "subclass": "1",
@@ -4073,9 +3637,7 @@
     "nationality": "Shqipëtar",
     "city": "Gjilan",
     "birthday": "01.01.2006",
-    "numbers": [
-      "045879232"
-    ],
+    "numbers": ["045879232"],
     "__v": 0,
     "parent": "Muhamet",
     "subclass": "2",
@@ -4096,9 +3658,7 @@
     "city": "Velekincë",
     "email": "bujarisaku15@gmail.com",
     "birthday": "13.09.2006",
-    "numbers": [
-      "045750762"
-    ],
+    "numbers": ["045750762"],
     "__v": 0,
     "parent": "Ilmi",
     "subclass": "2",
@@ -4119,10 +3679,7 @@
     "city": "Malishevë",
     "email": "donatsalihu07@gmail.com",
     "birthday": "03.03.2006",
-    "numbers": [
-      "045736770",
-      "044486783"
-    ],
+    "numbers": ["045736770", "044486783"],
     "__v": 0,
     "parent": "Arben",
     "subclass": "2",
@@ -4143,10 +3700,7 @@
     "city": "Gjilan",
     "email": "endri.emini12@gmail.com",
     "birthday": "08.04.2006",
-    "numbers": [
-      "048523080",
-      "048930420"
-    ],
+    "numbers": ["048523080", "048930420"],
     "__v": 0,
     "parent": "Bekim",
     "subclass": "2",
@@ -4167,9 +3721,7 @@
     "city": "Gjilan",
     "email": "eendrit258@gmail.com",
     "birthday": "23.08.2006",
-    "numbers": [
-      "048132157"
-    ],
+    "numbers": ["048132157"],
     "__v": 0,
     "parent": "Agmir",
     "subclass": "2",
@@ -4190,10 +3742,7 @@
     "city": "Dobërçan",
     "email": "elonxhemaili@gmail.com",
     "birthday": "17.10.2006",
-    "numbers": [
-      "044250214",
-      "045803876"
-    ],
+    "numbers": ["044250214", "045803876"],
     "__v": 0,
     "parent": "Lulzim",
     "subclass": "2",
@@ -4214,9 +3763,7 @@
     "city": "Uglarë",
     "email": "hevzizejnullahu@gmail.com",
     "birthday": "15.12.2005",
-    "numbers": [
-      "044319985"
-    ],
+    "numbers": ["044319985"],
     "__v": 0,
     "parent": "Fatmir",
     "subclass": "2",
@@ -4237,10 +3784,7 @@
     "city": "Gjilan",
     "email": "leontrit2005@gmail.com",
     "birthday": "16.09.2005",
-    "numbers": [
-      "048650635",
-      "048179998"
-    ],
+    "numbers": ["048650635", "048179998"],
     "__v": 0,
     "parent": "Gjem",
     "subclass": "2",
@@ -4261,9 +3805,7 @@
     "city": "Gjilan",
     "email": "qemabossi06@gmail.com",
     "birthday": "16.05.2006",
-    "numbers": [
-      "048165511"
-    ],
+    "numbers": ["048165511"],
     "__v": 0,
     "parent": "Bujar",
     "subclass": "2",
@@ -4284,9 +3826,7 @@
     "city": "Cërnicë",
     "email": "albanianK1@gmail.com",
     "birthday": "15.10.2004",
-    "numbers": [
-      "045455495"
-    ],
+    "numbers": ["045455495"],
     "__v": 0,
     "parent": "Afrim",
     "subclass": "2",
@@ -4307,9 +3847,7 @@
     "city": "Gjilan",
     "email": "venismurati30@gmail.com",
     "birthday": "22.08.2006",
-    "numbers": [
-      "044273853"
-    ],
+    "numbers": ["044273853"],
     "__v": 0,
     "parent": "Bekim",
     "subclass": "2",
@@ -4330,9 +3868,7 @@
     "city": "Gjilan",
     "email": "yllirexhepi2006@gmail.com",
     "birthday": "16.05.2006",
-    "numbers": [
-      "044761522"
-    ],
+    "numbers": ["044761522"],
     "parent": "Bujar",
     "__v": 0,
     "subclass": "2",
@@ -4353,9 +3889,7 @@
     "city": "Gjilan",
     "email": "ymerimeri6@gmail.com",
     "birthday": "02.03.2006",
-    "numbers": [
-      "044168672"
-    ],
+    "numbers": ["044168672"],
     "__v": 0,
     "parent": "Ismajl",
     "subclass": "2",
@@ -4376,9 +3910,7 @@
     "city": "Cërnicë",
     "email": "anisaademi60@gmail.com",
     "birthday": "06.03.2006",
-    "numbers": [
-      "044406956"
-    ],
+    "numbers": ["044406956"],
     "__v": 0,
     "parent": "Zejnullah",
     "subclass": "3",
@@ -4399,9 +3931,7 @@
     "city": "Gjilan",
     "email": "beluliart@gmail.com",
     "birthday": "23.10.2006",
-    "numbers": [
-      "049711885"
-    ],
+    "numbers": ["049711885"],
     "__v": 0,
     "parent": "Behlul",
     "subclass": "3",
@@ -4422,9 +3952,7 @@
     "city": "Gjilan",
     "email": "bleartshabani35@gmail.com",
     "birthday": "20.12.2006",
-    "numbers": [
-      "049329066"
-    ],
+    "numbers": ["049329066"],
     "__v": 0,
     "parent": "Ferat",
     "subclass": "3",
@@ -4445,9 +3973,7 @@
     "city": "Gjilan",
     "email": "Limaniblend73@gmail.com",
     "birthday": "21.11.2005",
-    "numbers": [
-      "044289021"
-    ],
+    "numbers": ["044289021"],
     "__v": 0,
     "parent": "Ymret",
     "subclass": "3",
@@ -4468,9 +3994,7 @@
     "city": "Livoç i ulët",
     "email": "Bleondneziri80@gmail.com",
     "birthday": "23.08.2006",
-    "numbers": [
-      "044470731"
-    ],
+    "numbers": ["044470731"],
     "__v": 0,
     "parent": "Qahil",
     "subclass": "3",
@@ -4491,9 +4015,7 @@
     "city": "Bresalc",
     "email": "uruqierion@gmail.com",
     "birthday": "18.02.2006",
-    "numbers": [
-      "049244078"
-    ],
+    "numbers": ["049244078"],
     "__v": 0,
     "parent": "Sami",
     "subclass": "3",
@@ -4514,9 +4036,7 @@
     "city": "Bresalc",
     "email": "erisuruqi321@gmail.com",
     "birthday": "28.10.2006",
-    "numbers": [
-      "044123280"
-    ],
+    "numbers": ["044123280"],
     "__v": 0,
     "parent": "Bajram",
     "subclass": "3",
@@ -4537,9 +4057,7 @@
     "city": "Gjilan",
     "email": "Leonaselishta1@icloud.com",
     "birthday": "07.09.2006",
-    "numbers": [
-      "048211807"
-    ],
+    "numbers": ["048211807"],
     "__v": 0,
     "parent": "Ruzhdi",
     "subclass": "3",
@@ -4560,9 +4078,7 @@
     "city": "Gjilan",
     "email": "Migjensylejmani001@gmail.com",
     "birthday": "21.01.2006",
-    "numbers": [
-      "045332712"
-    ],
+    "numbers": ["045332712"],
     "__v": 0,
     "parent": "Adem",
     "subclass": "3",
@@ -4583,9 +4099,7 @@
     "city": "Gjilan",
     "email": "ardit720@gmail.com",
     "birthday": "15.05.2007",
-    "numbers": [
-      "044424714"
-    ],
+    "numbers": ["044424714"],
     "__v": 0,
     "parent": "Musah",
     "subclass": "4",
@@ -4606,9 +4120,7 @@
     "city": "Malishevë",
     "email": "duetisufi04@gmail.com",
     "birthday": "19.08.2006",
-    "numbers": [
-      "044846476"
-    ],
+    "numbers": ["044846476"],
     "__v": 0,
     "parent": "Xhelal",
     "subclass": "4",
@@ -4629,9 +4141,7 @@
     "city": "Gjilan",
     "email": "eduarddermaku@gmail.com",
     "birthday": "02.12.2005",
-    "numbers": [
-      "049245145"
-    ],
+    "numbers": ["049245145"],
     "parent": "Adem",
     "__v": 0,
     "subclass": "4",
@@ -4651,9 +4161,7 @@
     "nationality": "Shqipëtar",
     "city": "Gjilan",
     "birthday": "17.01.2006",
-    "numbers": [
-      "045239557"
-    ],
+    "numbers": ["045239557"],
     "__v": 0,
     "parent": "Xhevat",
     "subclass": "4",
@@ -4674,9 +4182,7 @@
     "city": "Gjilan",
     "email": "violshkodra@gmail.com",
     "birthday": "13.03.2006",
-    "numbers": [
-      "045353183"
-    ],
+    "numbers": ["045353183"],
     "__v": 0,
     "parent": "Artan",
     "subclass": "4",
@@ -4697,9 +4203,7 @@
     "city": "Gjilan",
     "email": "ylldermaku64@gmail.com",
     "birthday": "29.04.2006",
-    "numbers": [
-      "044320182"
-    ],
+    "numbers": ["044320182"],
     "parent": "Naser",
     "__v": 0,
     "subclass": "4",
@@ -4719,9 +4223,7 @@
     "nationality": "Shqipëtar",
     "city": "Gjilan",
     "birthday": "07.10.2006",
-    "numbers": [
-      "044622943"
-    ],
+    "numbers": ["044622943"],
     "__v": 0,
     "parent": "Maliq",
     "subclass": "4",
@@ -4742,9 +4244,7 @@
     "city": "Gjilan",
     "email": "dematialbinot@gmail.com",
     "birthday": "20.11.2005",
-    "numbers": [
-      "045637310"
-    ],
+    "numbers": ["045637310"],
     "__v": 0,
     "parent": "Murat",
     "subclass": "5",
@@ -4764,9 +4264,7 @@
     "nationality": "Shqipëtar",
     "city": "Brus - Lipjan",
     "birthday": "13.12.2006",
-    "numbers": [
-      "045369568"
-    ],
+    "numbers": ["045369568"],
     "__v": 0,
     "parent": "Arbena",
     "subclass": "5",
@@ -4805,9 +4303,7 @@
     "city": "Livoç i epërm",
     "email": "ilmiabazi2006@gmail.com",
     "birthday": "19.08.2006",
-    "numbers": [
-      "045661128"
-    ],
+    "numbers": ["045661128"],
     "__v": 0,
     "parent": "Basri",
     "subclass": "5",
@@ -4828,9 +4324,7 @@
     "city": "Pasjak - Novobërdë",
     "email": "mustaframadani45@gmai.com",
     "birthday": "04.12.2006",
-    "numbers": [
-      "044143522"
-    ],
+    "numbers": ["044143522"],
     "subclass": "5",
     "parent": "Muhamet",
     "__v": 0
@@ -4849,9 +4343,7 @@
     "nationality": "Shqipëtar",
     "city": "Gjilan",
     "birthday": "06.08.2006",
-    "numbers": [
-      "044417602"
-    ],
+    "numbers": ["044417602"],
     "__v": 0,
     "parent": "Agim",
     "subclass": "5",
@@ -4871,9 +4363,7 @@
     "nationality": "Shqipëtar",
     "city": "Gjilan",
     "birthday": "23.05.2006",
-    "numbers": [
-      "045570420"
-    ],
+    "numbers": ["045570420"],
     "__v": 0,
     "parent": "Besnik",
     "subclass": "5",
@@ -4894,9 +4384,7 @@
     "city": "Përlepnicë",
     "email": "anisaxhelili2005@gmail.com",
     "birthday": "17.11.2005",
-    "numbers": [
-      "044313388"
-    ],
+    "numbers": ["044313388"],
     "__v": 0,
     "parent": "Xhafer",
     "subclass": "6",
@@ -4917,9 +4405,7 @@
     "city": "Livoç i epërm",
     "email": "albertkqiku.11@gmail.com",
     "birthday": "03.12.2005",
-    "numbers": [
-      "046127874"
-    ],
+    "numbers": ["046127874"],
     "__v": 0,
     "parent": "Ismajl",
     "subclass": "6",
@@ -4940,9 +4426,7 @@
     "city": "Ballancë",
     "email": "murseliarbnor41@gmail.com",
     "birthday": "04.06.2007",
-    "numbers": [
-      "044296828"
-    ],
+    "numbers": ["044296828"],
     "__v": 0,
     "parent": "Enver",
     "subclass": "6",
@@ -4963,10 +4447,7 @@
     "city": "Bresalc",
     "email": "aulonhaziri93@gmail.com",
     "birthday": "29.09.2006",
-    "numbers": [
-      "048344036",
-      "045104012"
-    ],
+    "numbers": ["048344036", "045104012"],
     "__v": 0,
     "parent": "Faton",
     "subclass": "6",
@@ -4987,10 +4468,7 @@
     "city": "Velekincë",
     "email": "blertasylejmani29@gmail.com",
     "birthday": "20.01.2006",
-    "numbers": [
-      "049243281",
-      "045243281"
-    ],
+    "numbers": ["049243281", "045243281"],
     "__v": 0,
     "parent": "Bejtullah",
     "subclass": "6",
@@ -5011,10 +4489,7 @@
     "city": "Gjilan",
     "email": "zuzakuedonisa66@gmail.com",
     "birthday": "09.05.2006",
-    "numbers": [
-      "049320345",
-      "045415998"
-    ],
+    "numbers": ["049320345", "045415998"],
     "__v": 0,
     "parent": "Shaban",
     "subclass": "6",
@@ -5036,9 +4511,7 @@
     "email": "erijonibrahimi6@gmail.com",
     "subclass": "6",
     "birthday": "12.01.2006",
-    "numbers": [
-      "045804429"
-    ],
+    "numbers": ["045804429"],
     "__v": 0
   },
   {
@@ -5056,9 +4529,7 @@
     "city": "Gjilan",
     "email": "fuli.diti@gmail.com",
     "birthday": "01.07.2006",
-    "numbers": [
-      "044320345"
-    ],
+    "numbers": ["044320345"],
     "__v": 0,
     "parent": "Fazli",
     "subclass": "6",
@@ -5079,9 +4550,7 @@
     "city": "Gjilan",
     "email": "halitigresa51@gmail.com",
     "birthday": "24.03.2006",
-    "numbers": [
-      "044477392"
-    ],
+    "numbers": ["044477392"],
     "__v": 0,
     "parent": "Burim",
     "subclass": "6",
@@ -5102,9 +4571,7 @@
     "city": "Pozharan - Viti",
     "email": "learthalabaku62@gmail.com",
     "birthday": "02.06.2006",
-    "numbers": [
-      "049812187"
-    ],
+    "numbers": ["049812187"],
     "__v": 0,
     "parent": "Enver",
     "subclass": "6",
@@ -5125,9 +4592,7 @@
     "city": "Smirë - Viti",
     "email": "murtezigresa8@gmail.com",
     "birthday": "20.05.2006",
-    "numbers": [
-      "048135602"
-    ],
+    "numbers": ["048135602"],
     "__v": 0,
     "parent": "Kemajl",
     "subclass": "6",
@@ -5148,10 +4613,7 @@
     "city": "Gjilan",
     "email": "lekapaulin60@gmail.com",
     "birthday": "09.11.2006",
-    "numbers": [
-      "046114599",
-      "045724918"
-    ],
+    "numbers": ["046114599", "045724918"],
     "__v": 0,
     "parent": "Naim",
     "subclass": "6",
@@ -5172,9 +4634,7 @@
     "city": "Gjilan",
     "email": "easllani@gmail.com",
     "birthday": "05.11.2005",
-    "numbers": [
-      "045435249"
-    ],
+    "numbers": ["045435249"],
     "__v": 0,
     "parent": "Isuf",
     "subclass": "7",
@@ -5195,9 +4655,7 @@
     "city": "Gjilan",
     "email": "elona.sh@hotmail.com",
     "birthday": "27.01.2005",
-    "numbers": [
-      "045817219"
-    ],
+    "numbers": ["045817219"],
     "__v": 0,
     "parent": "Tefik",
     "subclass": "7",
@@ -5218,10 +4676,7 @@
     "city": "Gjilan",
     "email": "Elsa.b@gmail.com",
     "birthday": "06.02.2006",
-    "numbers": [
-      "045236340",
-      "045584489"
-    ],
+    "numbers": ["045236340", "045584489"],
     "__v": 0,
     "parent": "Rexhep",
     "subclass": "7",
@@ -5242,9 +4697,7 @@
     "city": "Gjilan",
     "email": "erion.ajvazi@gmail.com",
     "birthday": "16.02.2006",
-    "numbers": [
-      "044518802"
-    ],
+    "numbers": ["044518802"],
     "__v": 0,
     "parent": "Adem",
     "subclass": "7",
@@ -5265,9 +4718,7 @@
     "city": "Gjilan",
     "email": "llselishta@gmail.com",
     "birthday": "23.05.2006",
-    "numbers": [
-      "044656223"
-    ],
+    "numbers": ["044656223"],
     "__v": 0,
     "parent": "Arsim",
     "subclass": "7",
@@ -5287,9 +4738,7 @@
     "nationality": "Shqipëtar",
     "city": "Gadishë - Gjilan",
     "birthday": "29.10.2006",
-    "numbers": [
-      "045594570"
-    ],
+    "numbers": ["045594570"],
     "__v": 0,
     "parent": "Ismet",
     "subclass": "7",
@@ -5310,9 +4759,7 @@
     "city": "Gjilan",
     "email": "rinisdemi@hotmail.com",
     "birthday": "28.09.2006",
-    "numbers": [
-      "044369119"
-    ],
+    "numbers": ["044369119"],
     "__v": 0,
     "parent": "Sabit",
     "subclass": "7",
@@ -5332,9 +4779,7 @@
     "nationality": "Shqipëtar",
     "city": "Gadishë - Gjilan",
     "birthday": "18.11.2006",
-    "numbers": [
-      "044866069"
-    ],
+    "numbers": ["044866069"],
     "__v": 0,
     "parent": "Xhevat",
     "subclass": "7",
@@ -5355,9 +4800,7 @@
     "city": "Gjilan",
     "email": "moreendrit60@gmail.com",
     "birthday": "30.09.2005",
-    "numbers": [
-      "046112283"
-    ],
+    "numbers": ["046112283"],
     "parent": "Besim",
     "subclass": "8",
     "__v": 0
@@ -5376,9 +4819,7 @@
     "nationality": "Shqipëtar",
     "city": "Gjilan",
     "birthday": "08.06.2006",
-    "numbers": [
-      "044717536"
-    ],
+    "numbers": ["044717536"],
     "__v": 0,
     "parent": "Fehmi",
     "subclass": "8",
@@ -5399,9 +4840,7 @@
     "city": "Petrovc - Kamenicë",
     "email": "gentiidrizi53@gmail.com",
     "birthday": "02.07.2006",
-    "numbers": [
-      "045257428"
-    ],
+    "numbers": ["045257428"],
     "__v": 0,
     "parent": "Sahit",
     "subclass": "8",
@@ -5422,9 +4861,7 @@
     "city": "Pidiq - Gjilan",
     "email": "luanlimani72@hotmail.com",
     "birthday": "28.01.2006",
-    "numbers": [
-      "045539977"
-    ],
+    "numbers": ["045539977"],
     "__v": 0,
     "parent": "Liman",
     "subclass": "8",
@@ -5445,9 +4882,7 @@
     "city": "Gjilan",
     "email": "adimusliu70@gmail.com",
     "birthday": "30.08.2006",
-    "numbers": [
-      "045259894"
-    ],
+    "numbers": ["045259894"],
     "__v": 0,
     "parent": "Rahim",
     "subclass": "9",
@@ -5468,9 +4903,7 @@
     "city": "Gjilan",
     "email": "altinjahiu@icloud.com",
     "birthday": "24.11.2005",
-    "numbers": [
-      "044575138"
-    ],
+    "numbers": ["044575138"],
     "__v": 0,
     "parent": "Liman",
     "subclass": "9",
@@ -5491,9 +4924,7 @@
     "city": "Gjilan",
     "email": "altrimsylejmani@icloud.com",
     "birthday": "04.07.2005",
-    "numbers": [
-      "045621903"
-    ],
+    "numbers": ["045621903"],
     "__v": 0,
     "parent": "Sylejman",
     "subclass": "9",
@@ -5514,9 +4945,7 @@
     "city": "Gjilan",
     "email": "artramizii06@gmail.com",
     "birthday": "09.02.2006",
-    "numbers": [
-      "044803602"
-    ],
+    "numbers": ["044803602"],
     "__v": 0,
     "parent": "Ragip",
     "subclass": "9",
@@ -5537,9 +4966,7 @@
     "city": "Gjilan",
     "email": "sadriubleron3@gmail.com",
     "birthday": "27.04.2006",
-    "numbers": [
-      "044415389"
-    ],
+    "numbers": ["044415389"],
     "__v": 0,
     "parent": "Ruzhdi",
     "subclass": "9",
@@ -5560,9 +4987,7 @@
     "city": "Gjilan",
     "email": "edisonhajdari43@gmail.com",
     "birthday": "15.04.2006",
-    "numbers": [
-      "049691250"
-    ],
+    "numbers": ["049691250"],
     "__v": 0,
     "parent": "Burim",
     "subclass": "9",
@@ -5583,9 +5008,7 @@
     "city": "Gjilan",
     "email": "momqillaedison@gmail.com",
     "birthday": "14.08.2006",
-    "numbers": [
-      "044396657"
-    ],
+    "numbers": ["044396657"],
     "parent": "Miredita",
     "__v": 0,
     "subclass": "9",
@@ -5606,9 +5029,7 @@
     "city": "Gjilan",
     "email": "rashitii770@gmail.com",
     "birthday": "22.08.2005",
-    "numbers": [
-      "046110259"
-    ],
+    "numbers": ["046110259"],
     "__v": 0,
     "parent": "Ekrem",
     "subclass": "9",
@@ -5628,9 +5049,7 @@
     "nationality": "Shqipëtar",
     "city": "Gjilan",
     "birthday": "07.03.2006",
-    "numbers": [
-      "044412681"
-    ],
+    "numbers": ["044412681"],
     "__v": 0,
     "parent": "Ruzhdi",
     "subclass": "9",
@@ -5651,9 +5070,7 @@
     "city": "Gjilan",
     "email": "hamdiajeti1234@gmail.com",
     "birthday": "24.06.2006",
-    "numbers": [
-      "045545690"
-    ],
+    "numbers": ["045545690"],
     "__v": 0,
     "parent": "Rexhep",
     "subclass": "9",
@@ -5674,9 +5091,7 @@
     "city": "Gjilan",
     "email": "ibrahimmerovca3@gmail.com",
     "birthday": "28.05.2006",
-    "numbers": [
-      "044342604"
-    ],
+    "numbers": ["044342604"],
     "__v": 0,
     "parent": "Zijadin",
     "subclass": "9",
@@ -5697,9 +5112,7 @@
     "city": "Gjilan",
     "email": "leonmaliqiooo@gmail.com",
     "birthday": "23.07.2006",
-    "numbers": [
-      "049451166"
-    ],
+    "numbers": ["049451166"],
     "__v": 0,
     "parent": "Avdi",
     "subclass": "9",
@@ -5720,9 +5133,7 @@
     "city": "Gjilan",
     "email": "leonisbunjaku33@gmail.com",
     "birthday": "16.08.2005",
-    "numbers": [
-      "044244332"
-    ],
+    "numbers": ["044244332"],
     "subclass": "9",
     "__v": 0
   },
@@ -5741,9 +5152,7 @@
     "city": "Gjilan",
     "email": "shaipmaliqi2006@gmail.com",
     "birthday": "15.06.2006",
-    "numbers": [
-      "044652991"
-    ],
+    "numbers": ["044652991"],
     "__v": 0,
     "parent": "Vehbi",
     "subclass": "9",
@@ -5764,9 +5173,7 @@
     "city": "Vërbocë e Zhegocit",
     "email": "albisylejmani589@gmail.com",
     "birthday": "02.07.2006",
-    "numbers": [
-      "045873101"
-    ],
+    "numbers": ["045873101"],
     "__v": 0,
     "parent": "Nexhat",
     "subclass": "10",
@@ -5787,9 +5194,7 @@
     "city": "Pasjak - Novobërdë",
     "email": "drenahmeti82@gmail.com",
     "birthday": "13.02.2006",
-    "numbers": [
-      "045376942"
-    ],
+    "numbers": ["045376942"],
     "__v": 0,
     "parent": "Hajrush",
     "subclass": "10",
@@ -5810,9 +5215,7 @@
     "city": "Gjilan",
     "email": "ensarrrudhani06@gmail.com",
     "birthday": "01.08.2006",
-    "numbers": [
-      "045961894"
-    ],
+    "numbers": ["045961894"],
     "__v": 0,
     "parent": "Lulzim",
     "subclass": "10",
@@ -5833,9 +5236,7 @@
     "city": "Shipashnicë - Kamenicë",
     "email": "fetahdermaku06@gmail.com",
     "birthday": "25.02.2006",
-    "numbers": [
-      "044862919"
-    ],
+    "numbers": ["044862919"],
     "__v": 0,
     "parent": "Agim",
     "subclass": "10",
@@ -5856,9 +5257,7 @@
     "city": "Gumnishtë",
     "email": "gentrikqiku16@gmail.com",
     "birthday": "01.12.2006",
-    "numbers": [
-      "045276458"
-    ],
+    "numbers": ["045276458"],
     "__v": 0,
     "parent": "Hysen",
     "subclass": "10",
@@ -5879,9 +5278,7 @@
     "city": "Budrikë e epërme",
     "email": "laurandzeqiri2021@gmail.com",
     "birthday": "01.04.2006",
-    "numbers": [
-      "045612381"
-    ],
+    "numbers": ["045612381"],
     "__v": 0,
     "parent": "Beqir",
     "subclass": "10",
@@ -5902,9 +5299,7 @@
     "city": "Cërnicë",
     "email": "lirimsherifi2021@gmail.com",
     "birthday": "24.03.2006",
-    "numbers": [
-      "045965738"
-    ],
+    "numbers": ["045965738"],
     "__v": 0,
     "parent": "Skender",
     "subclass": "10",
@@ -5925,9 +5320,7 @@
     "city": "Vërbocë e Zhegocit",
     "email": "qamilajeti9@gmail.com",
     "birthday": "12.10.2006",
-    "numbers": [
-      "045258354"
-    ],
+    "numbers": ["045258354"],
     "__v": 0,
     "parent": "Bekim",
     "subclass": "10",
@@ -5948,9 +5341,7 @@
     "city": "Gjilan",
     "email": "ukshinlipovica2005123@gmail.com",
     "birthday": "26.12.2005",
-    "numbers": [
-      "045274235"
-    ],
+    "numbers": ["045274235"],
     "__v": 0,
     "parent": "Nazim",
     "subclass": "10",
@@ -5971,10 +5362,7 @@
     "city": "Gjilan",
     "email": "visarselishta2021@gmail.com",
     "birthday": "06.12.2005",
-    "numbers": [
-      "044231937",
-      "045781647"
-    ],
+    "numbers": ["044231937", "045781647"],
     "__v": 0,
     "parent": "Feim",
     "subclass": "10",
@@ -5995,9 +5383,7 @@
     "city": "Vërbocë e Zhegocit",
     "email": "ertonukshini173@gmail.com",
     "birthday": "25.01.2006",
-    "numbers": [
-      "045889432"
-    ],
+    "numbers": ["045889432"],
     "__v": 0,
     "parent": "Hajriz",
     "subclass": "10",
@@ -6018,9 +5404,7 @@
     "city": "Livoq i epërm",
     "email": "momqillaflorent299@gmail.com",
     "birthday": "24.01.2006",
-    "numbers": [
-      "044884714"
-    ],
+    "numbers": ["044884714"],
     "__v": 0,
     "parent": "Sefer",
     "subclass": "10",
@@ -6041,9 +5425,7 @@
     "city": "Gjilan",
     "email": "rushitiarti@gmail.com",
     "birthday": "18.07.2006",
-    "numbers": [
-      "044397609"
-    ],
+    "numbers": ["044397609"],
     "__v": 0,
     "parent": "Nexhmedin",
     "subclass": "11",
@@ -6064,10 +5446,7 @@
     "city": "Cërnicë",
     "email": "sylejmanialtina22@icloud.com",
     "birthday": "27.09.2006",
-    "numbers": [
-      "044397602",
-      "049553959"
-    ],
+    "numbers": ["044397602", "049553959"],
     "__v": 0,
     "parent": "Adem",
     "subclass": "11",
@@ -6088,9 +5467,7 @@
     "city": "Hodonocë - Kamenicë",
     "email": "arlindbasha48@gmail.com",
     "birthday": "13.06.2006",
-    "numbers": [
-      "045964981"
-    ],
+    "numbers": ["045964981"],
     "__v": 0,
     "parent": "Nexhat",
     "subclass": "11",
@@ -6111,9 +5488,7 @@
     "city": "Gjilan",
     "email": "osmanibardh80@gmail.com",
     "birthday": "09.10.2006",
-    "numbers": [
-      "045917859"
-    ],
+    "numbers": ["045917859"],
     "__v": 0,
     "parent": "Skender",
     "subclass": "11",
@@ -6134,9 +5509,7 @@
     "city": "Gjilan",
     "email": "zblertin@gmail.com",
     "birthday": "16.08.2006",
-    "numbers": [
-      "049455569"
-    ],
+    "numbers": ["049455569"],
     "__v": 0,
     "parent": "Selver",
     "subclass": "11",
@@ -6157,9 +5530,7 @@
     "city": "Gjilan",
     "email": "ilazgagica4@gmail.com",
     "birthday": "03.04.2006",
-    "numbers": [
-      "044180936"
-    ],
+    "numbers": ["044180936"],
     "__v": 0,
     "parent": "Raif",
     "subclass": "11",
@@ -6180,9 +5551,7 @@
     "city": "Gjilan",
     "email": "valdetqaili9@gmail.com",
     "birthday": "27.02.2006",
-    "numbers": [
-      "044604870"
-    ],
+    "numbers": ["044604870"],
     "__v": 0,
     "parent": "Xhevdet",
     "subclass": "11",
@@ -6203,9 +5572,7 @@
     "city": "Gjilan",
     "email": "engjelljashari500@gmail.com",
     "birthday": "04.03.2005",
-    "numbers": [
-      "044766463"
-    ],
+    "numbers": ["044766463"],
     "subclass": "12",
     "parent": "Flamur",
     "__v": 0
@@ -6224,10 +5591,7 @@
     "nationality": "Shqipëtare",
     "city": "Velekincë",
     "birthday": "25.05.2005",
-    "numbers": [
-      "044709814",
-      "049671615"
-    ],
+    "numbers": ["044709814", "049671615"],
     "__v": 0,
     "parent": "Zijadin",
     "subclass": "12",
@@ -6247,9 +5611,7 @@
     "nationality": "Shqipëtar",
     "city": "Livoqë",
     "birthday": "25.12.2004",
-    "numbers": [
-      "044492745"
-    ],
+    "numbers": ["044492745"],
     "__v": 0,
     "parent": "Naser",
     "subclass": "12",
@@ -6269,9 +5631,7 @@
     "nationality": "Shqipëtar",
     "city": "Gjilan",
     "birthday": "12.11.2004",
-    "numbers": [
-      "049558069"
-    ],
+    "numbers": ["049558069"],
     "parent": "Senat",
     "__v": 0,
     "subclass": "12",
@@ -6291,9 +5651,7 @@
     "nationality": "Shqipëtar",
     "city": "Gjilan",
     "birthday": "09.07.2005",
-    "numbers": [
-      "044909814"
-    ],
+    "numbers": ["044909814"],
     "__v": 0,
     "parent": "Maksut",
     "subclass": "12",
@@ -6313,9 +5671,7 @@
     "nationality": "Shqipëtare",
     "city": "Velekincë",
     "birthday": "18.04.2006",
-    "numbers": [
-      "044968705"
-    ],
+    "numbers": ["044968705"],
     "__v": 0,
     "parent": "Rexhep",
     "subclass": "12",
@@ -6335,9 +5691,7 @@
     "nationality": "Shqipëtar",
     "city": "Gjilan",
     "birthday": "15.07.2006",
-    "numbers": [
-      "044658301"
-    ],
+    "numbers": ["044658301"],
     "subclass": "12",
     "parent": "Sedat",
     "__v": 0
