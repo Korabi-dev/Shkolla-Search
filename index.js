@@ -126,7 +126,7 @@ const bot = new ViberBot({
 
 bot.on(BotEvents.SUBSCRIBED, (response) => {
   console.log(`User subscribed: ${response.userProfile.name} ${response.userProfile.id}`);
-  response.send(new TextMessage("Mirsevini ne sistemin e njoftimit për SH.M.T \"Mehmet Isai\"!"));
+  response.send(new TextMessage(`I/E dashur ${response.userProfile.name}. Mirsevini ne sistemin e njoftimit të prindve për SH.M.T "Mehmet Isai"!`));
 });
 
 bot.onTextMessage(/hello|hi/i, (message, response) => {
