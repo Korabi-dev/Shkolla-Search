@@ -130,7 +130,7 @@ bot.on(BotEvents.SUBSCRIBED, (response) => {
 });
 
 bot.onTextMessage(/hello|hi/i, (message, response) => {
-  response.send(new TextMessage(`Hello, ${message.sender.name}! How can I assist you today?`));
+  response.send(new TextMessage(`Hello, ${response.userProfile.name}! How can I assist you today?`));
 });
 
 bot.on(BotEvents.MESSAGE_RECEIVED, (message, response) => {
