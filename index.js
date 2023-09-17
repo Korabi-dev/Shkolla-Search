@@ -158,7 +158,7 @@ bot.on(BotEvents.SUBSCRIBED, (response) => {
   console.log(
     `User subscribed: ${response.userProfile.name} ${response.userProfile.id}`
   );
-  console.log(userProfile)
+  console.log(response.userProfile)
   response.send(
     new TextMessage(
       `I/E dashur ${response.userProfile.name}. Mirsevini ne sistemin e njoftimit të prindve për SH.M.T "Mehmet Isai"!`
