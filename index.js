@@ -6,10 +6,12 @@ app.use(require("cors")());
 let nodemailer = require("nodemailer");
 const rateLimit = require("express-rate-limit");
 const limiter = rateLimit({
-  windowMs: 60 * 1 * 1000, 
-  max: 3, 
-   handler: (req, res) => {
-    res.status(429).json({error: true, res: "Shum kerkesa, ju lutem provoni më von"});
+  windowMs: 60 * 1 * 1000,
+  max: 3,
+  handler: (req, res) => {
+    res
+      .status(429)
+      .json({ error: true, res: "Shum kerkesa, ju lutem provoni më von" });
   },
 });
 let user = "notifications@edu.mehmetisai.xyz";
@@ -42,34 +44,65 @@ app.get("/student/:query", async (req, res) => {
   res.send({ error: false, res: data });
 });
 
-app.get("/email/:email/:emri", async (req, res) => {
-  let email = req.params.email;
-  let emri = req.params.emri;
-  if (!email) return res.sendStatus(400);
-  if (!emri) return res.sendStatus(400);
-  var mailOptions = {
-    from: user,
-    to: email,
-    subject: "Lavdat",
-    html: { path: "./test.html" },
-  };
-  console.log(email, emri);
-  transporter2.sendMail(mailOptions, function (error, info) {
-    if (error) {
-      console.log(error);
-    } else {
-      console.log("Email sent");
+
+app.get("/email/:data", async (req, res) => {
+  let data1 = req.params.data;
+  if (!data1) return res.sendStatus(400);
+  let parsed;
+  try {
+    parsed = JSON.parse(data1);
+  } catch (e) {
+    parsed = 1;
+  }
+  if (parsed == 1) return res.sendStatus(400);
+  let data = parsed;
+  if (
+    !data ||
+    !data?.text ||
+    !data?.student ||
+    !data?.student?.name ||
+    !data?.student?.email ||
+    !data?.student?.surname
+  )
+    return res.sendStatus(400);
+  let h1 = data.h1 || "Njoftim";
+  let full_name = `${data.student.name} ${data.student.surname}`;
+  fs.readFile("./test.html", "utf8", (err, file) => {
+    if (err) {
+      console.error(err);
+      return res.sendStatus(500);
     }
+    const modifiedContent = file
+      .replace("{{full_name}}", full_name)
+      .replace("{{h1}}", h1)
+      .replace("{{text}}", data.text);
+    var mailOptions = {
+      from: user,
+      to: data.student.email,
+      subject: data.title || "Njoftim",
+      html: modifiedContent,
+    };
+
+    transporter2.sendMail(mailOptions, function (error, info) {
+      if (error) {
+        console.log(error);
+        return res.sendStatus(500);
+      } else {
+        return res.sendStatus(200);
+      }
+    });
   });
 });
-let pws = ["Korabi20!", "MiS123!"]
+
+let pws = ["Korabi20!", "MiS123!"];
 app.get("/getall/:pw?", limiter, async (req, res) => {
   let pw = req.params.pw;
   if (!pw) return res.sendStatus(400);
   if (!pws.includes(pw)) return res.sendStatus(401);
-  let data = await models.students.find({})
-  if(!data || !data.length) return res.send({error: true, res: "Nuk ka informacion të nxënësve"})
-  res.send({error: false, res: data})
+  let data = await models.students.find({});
+  if (!data || !data.length)
+    return res.send({ error: true, res: "Nuk ka informacion të nxënësve" });
+  res.send({ error: false, res: data });
 });
 
 app.listen(port, function () {

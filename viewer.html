@@ -233,7 +233,11 @@
         function button(name, cb) {
           const newbutton = document.createElement("button");
           newbutton.textContent = name;
-          newbutton.addEventListener("click", cb);
+          newbutton.addEventListener("click", function (...args) {
+            if (cb && typeof cb == "function") {
+              cb(newbutton, ...args);
+            }
+          });
           return newbutton;
         }
         function updateDisplay(searchText = "") {
@@ -312,7 +316,41 @@
                 keyValue.textContent = `${format(key)}: ${data[key]}`;
                 details.appendChild(keyValue);
               }
-              details.appendChild(button("Send Email"));
+              if (data?.email) {
+                details.appendChild(
+                  button("Send Email", async (button) => {
+                    let tit = window.prompt("Titulli i email (opsional):");
+                    let head = window.prompt("Header i email (opsional):");
+                    let txt = window.prompt("Njoftimi:");
+                    if (!txt || (txt && txt.replace(/ /g, "") == ""))
+                      return window.alert("Njoftimi nuk mund të jet i zbrazët");
+                    let dt = { student: data, text: txt };
+                    if (tit && tit.replace(/ /g, "") != "") dt.title = tit;
+                    if (head && head.replace(/ /g, "") != "") dt.h1 = head;
+                    let r = await fetch(`${url}email/${JSON.stringify(dt)}`);
+                    if (r.status == 400 || r.status == 500) {
+                      try {
+                        button.remove();
+                      } catch (e) {}
+                      window.alert(
+                        "Ka ndodhur një gabim, ju lutemi kontaktoni korabin"
+                      );
+                      return;
+                    }
+                    if (r.status == 200) {
+                      window.alert("Email u dërgua");
+                      return;
+                    }
+                    try {
+                      button.remove();
+                    } catch (e) {}
+                    window.alert(
+                      "Ka ndodhur një gabim katastrofik, ju lutemi kontaktoni korabin"
+                    );
+                    return;
+                  })
+                );
+              }
               item.appendChild(title);
               item.appendChild(details);
 
