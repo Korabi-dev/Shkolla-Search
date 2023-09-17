@@ -6,6 +6,7 @@ app.use(require("cors")());
 let nodemailer = require("nodemailer");
 const rateLimit = require("express-rate-limit");
 let pws = ["Korabi20!", "MiS123!"];
+let cache;
 const limiter2 = rateLimit({
   windowMs: 120 * 1 * 1000,
   max: 1,
@@ -40,7 +41,10 @@ const models = require("./models");
 
 connected.then(async (connection) => {
   console.log("DB Connected");
-  fs.writeFileSync("nxn.json", JSON.stringify(await models.students.find({})));
+  let data = await models.students.find({})
+  if(data) {
+    cache = data
+  }
 });
 
 app.get("/student/:query", async (req, res) => {
@@ -116,7 +120,6 @@ app.get("/email/:pw/:data", async (req, res) => {
     });
   });
 });
-let cache;
 app.get("/updatecache/:pw?", customRateLimiter2, async (req, res) => {
   let pw = req.params.pw;
   if (!pw) return res.sendStatus(400);
@@ -155,6 +158,7 @@ bot.on(BotEvents.SUBSCRIBED, (response) => {
   console.log(
     `User subscribed: ${response.userProfile.name} ${response.userProfile.id}`
   );
+  console.log(userProfile)
   response.send(
     new TextMessage(
       `I/E dashur ${response.userProfile.name}. Mirsevini ne sistemin e njoftimit të prindve për SH.M.T "Mehmet Isai"!`
