@@ -78,7 +78,7 @@ app.get("/email/:pw/:data", async (req, res) => {
     return res.sendStatus(400);
   let h1 = data.h1 || "Njoftim";
   let full_name = `${data.student.name} ${data.student.surname}`;
-  let wm = data?.wm + "<br>" || "";
+  let wm = data?.wm + "<br>" || "-";
   let gender;
   if (data.student.gender.toLowerCase().startsWith("m")) {
     gender = "I";
