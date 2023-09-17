@@ -15,8 +15,22 @@ const limiter = rateLimit({
       .json({ error: true, res: "Shum kerkesa, ju lutem provoni më von" });
   },
 });
-
+const limiter2 = rateLimit({
+  windowMs: 120 * 1 * 1000,
+  max: 1,
+  handler: (req, res) => {
+    res
+      .status(429)
+      .json({ error: true, res: "Shum kerkesa, ju lutem provoni më von" });
+  },
+});
 function customRateLimiter(req, res, next) {
+  if (req.params.pw && req?.params?.pw === pws[0]) {
+    return next();
+  }
+  return limiter(req, res, next);
+}
+function customRateLimiter2(req, res, next) {
   if (req.params.pw && req?.params?.pw === pws[0]) {
     return next();
   }
@@ -86,8 +100,8 @@ app.get("/email/:pw/:data", async (req, res) => {
   if (data.student.gender.toLowerCase().startsWith("f")) {
     gender = "E";
   }
-  if(!gender){
-    gender = "I/E"
+  if (!gender) {
+    gender = "I/E";
   }
   fs.readFile("./test.html", "utf8", (err, file) => {
     if (err) {
@@ -117,15 +131,30 @@ app.get("/email/:pw/:data", async (req, res) => {
     });
   });
 });
-
-app.get("/getall/:pw?", customRateLimiter, async (req, res) => {
+let cache;
+app.get("/updatecache/:pw?", customRateLimiter2, async (req, res) => {
   let pw = req.params.pw;
   if (!pw) return res.sendStatus(400);
   if (!pws.includes(pw)) return res.sendStatus(401);
   let data = await models.students.find({});
   if (!data || !data.length)
     return res.send({ error: true, res: "Nuk ka informacion të nxënësve" });
+  cache = data;
   res.send({ error: false, res: data });
+});
+app.get("/getall/:pw?", customRateLimiter, async (req, res) => {
+  let pw = req.params.pw;
+  if (!pw) return res.sendStatus(400);
+  if (!pws.includes(pw)) return res.sendStatus(401);
+  if (!cache) {
+    let data = await models.students.find({});
+    if (!data || !data.length)
+      return res.send({ error: true, res: "Nuk ka informacion të nxënësve" });
+    cache = data;
+    res.send({ error: false, res: data });
+  } else {
+    res.send({ error: false, res: cache });
+  }
 });
 
 const ViberBot = require("viber-bot").Bot;
