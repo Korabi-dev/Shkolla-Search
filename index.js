@@ -8,13 +8,19 @@ const rateLimit = require("express-rate-limit");
 let pws = ["Korabi20!", "MiS123!"];
 const limiter = rateLimit({
   windowMs: 60 * 1 * 1000,
-  max: 3,
+  max: 2,
   handler: (req, res) => {
-    res
-      .status(429)
-      .json({ error: true, res: "Shum kerkesa, ju lutem provoni më von" });
+    res.status(429).json({ error: true, res: "Shum kerkesa, ju lutem provoni më von" });
   },
 });
+
+function customRateLimiter(req, res, next) {
+  if (req.params.pw && req?.params?.pw === pws[0]) {
+    return next();
+  }
+  return limiter(req, res, next); 
+}
+
 let user = "notifications@edu.mehmetisai.xyz";
 const transporter2 = nodemailer.createTransport({
   host: "smtp.zoho.eu",
@@ -99,7 +105,7 @@ app.get("/email/:pw/:data", async (req, res) => {
   });
 });
 
-app.get("/getall/:pw?", limiter, async (req, res) => {
+app.get("/getall/:pw?", customRateLimiter, async (req, res) => {
   let pw = req.params.pw;
   if (!pw) return res.sendStatus(400);
   if (!pws.includes(pw)) return res.sendStatus(401);
