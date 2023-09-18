@@ -20,7 +20,7 @@ function customRateLimiter2(req, res, next) {
   if (req.params.pw && req?.params?.pw === pws[0]) {
     return next();
   }
-  return limiter(req, res, next);
+  return limiter2(req, res, next);
 }
 
 let user = "notifications@edu.mehmetisai.xyz";
