@@ -31,3 +31,13 @@ s = new Schema({
   surname: {type: String, required: true}
 })
 exports.viber = new model("viber", s)
+
+s = new Schema({
+  name: rq,
+  surname: rq,
+  student: rq,
+  data: {type: Object, required: true},
+  pass: rq,
+  completed: {type: Boolean, default: false}
+})
+exports.parents = new model("parent", s);
