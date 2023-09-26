@@ -5,7 +5,7 @@ const fs = require("fs");
 app.use(require("cors")());
 let nodemailer = require("nodemailer");
 const rateLimit = require("express-rate-limit");
-let pws = ["Korabi20!", "MiS123!"];
+let pws = ["Korabi20!"];
 let cache;
 const limiter2 = rateLimit({
   windowMs: 120 * 1 * 1000,
